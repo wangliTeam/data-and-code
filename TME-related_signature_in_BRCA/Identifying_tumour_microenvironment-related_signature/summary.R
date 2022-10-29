@@ -1,3 +1,5 @@
+# Identifying tumour microenvironment-related signature correlates with prognosis and immunotherapy response in breast cancer
+
 #estimate was used to calculate the corresponding immune score, stromal score, and estimated score
 data_symbol<-read.csv("乳腺癌表达谱/symbol.csv",header = T)
 write.table(data_symbol,"datasymbol.txt",sep = "\t",quote = F,row.names = F)
