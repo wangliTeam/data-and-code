@@ -1,9 +1,4 @@
-# Identifying tumour microenvironment-related signature correlates with prognosis and immunotherapy response in breast cancer
-
 #estimate was used to calculate the corresponding immune score, stromal score, and estimated score
-data_symbol<-read.csv("乳腺癌表达谱/symbol.csv",header = T)
-write.table(data_symbol,"datasymbol.txt",sep = "\t",quote = F,row.names = F)
-
 library(estimate)
 filterCommonGenes(input.f = "symbol.txt",
                   output.f = "Estimate_gene.gct",
@@ -48,8 +43,8 @@ p1<-ggplot(data = ameta, aes(x = variable, y = value, fill = group)) +
   annotate("text",x=anno_a$class,y=(anno_a$h-300),label="————",vjust=-0.3)+
   scale_fill_manual(values = c("tumor"="orange","normal"="blue"))
 
-ggsave("分数差异.png",p1,width = 8,height = 6)
-ggsave("分数差异.pdf",p1,width = 8,height = 6)
+ggsave("difference scores.png",p1,width = 8,height = 6)
+ggsave("difference scores.pdf",p1,width = 8,height = 6)
 
 p1<-ggplot(ameta, aes(x=value, col=variable,linetype=group)) + 
   stat_ecdf(geom="smooth", se=F, size=1.2) + 
@@ -62,8 +57,8 @@ p1<-ggplot(ameta, aes(x=value, col=variable,linetype=group)) +
        title = "")+
   scale_color_manual(values = c("#F8766D", "#00BA38", "#619CFF"))
   
-ggsave("累积分布终图.png",p1,width = 8,height = 6)
-ggsave("累积分布终图.pdf",p1,width = 8,height = 6)
+ggsave("cumulative distribution.png",p1,width = 8,height = 6)
+ggsave("cumulative distribution.pdf",p1,width = 8,height = 6)
 
 #Breast cancer samples were grouped based on the median immune score and stromal score, followed by DEseq2 differential analysis
 rnaseq<-as.data.frame(scores)
@@ -101,7 +96,7 @@ save(im_high_symbol,im_low_symbol,st_high_symbol,st_low_symbol,groop_list1,groop
 
 
 library(stringr)
-groop_list<- ifelse(as.numeric(str_sub(row.names(rnaseq),14,15))<10,"tumor","normal")#样品分组
+groop_list<- ifelse(as.numeric(str_sub(row.names(rnaseq),14,15))<10,"tumor","normal")
 group_list <- factor(groop_list,levels = c("normal","tumor"))
 table(group_list)
 colData<-data.frame(row.names = row.names(rnaseq),
@@ -134,7 +129,6 @@ res2<-results(dds2_2)
 DE_st<-as.data.frame(res2)
 DE_st$change=as.factor(ifelse(DE_st$padj < 0.05 & abs(DE_st$log2FoldChange) > 1 ,ifelse(DE_st$log2FoldChange > 1  ,'UP','DOWN'),'NOT'))
 table(DE_st$change)
-save(DE_im,DE_st,file = "免疫基质差异分析结果.Rdata")
 #Volcano maps, Venn maps and heat maps were created based on differential genes from immune scores and stromal scores
 im_up<-row.names(DE_im)[DE_im$change=="UP"]
 st_up<-row.names(DE_st)[DE_st$change=="UP"]
@@ -179,32 +173,16 @@ library(grid)
 library(futile.logger)
 library(VennDiagram)
 vene_list1<-list(Immune = im_up,Stromal = st_up)
-venn.diagram(vene_list1, filename = '上调基因.png', imagetype = 'png', 
+venn.diagram(vene_list1, filename = 'up-regulated gene.png', imagetype = 'png', 
              fill = c('red', 'blue'), alpha = 0.50, cat.col = rep('black', 2), 
              col = 'black', cex = 3, fontfamily = 'serif', 
              cat.cex = 0, cat.fontfamily = 'serif')
 
 vene_list2<-list(Immune = im_down,Stromal = st_down)
-venn.diagram(vene_list2, filename = '下调基因.png', imagetype = 'png', 
+venn.diagram(vene_list2, filename = 'down-regulated gene.png', imagetype = 'png', 
              fill = c('red', 'blue'), alpha = 0.50, cat.col = rep('black', 2), 
              col = 'black', cex = 3, fontfamily = 'serif', 
              cat.cex = 0, cat.fontfamily = 'serif')
-
-p<-venn.diagram(vene_list1, filename = NULL, imagetype = 'png', 
-                fill = c('red', 'blue'), alpha = 0.50, cat.col = rep('black', 2), 
-                col = 'black', cex = 3, fontfamily = 'serif', 
-                cat.cex = 2, cat.fontfamily = 'serif')
-pdf(file="上调基因.pdf")
-grid.draw(p)
-dev.off()
-
-p<-venn.diagram(vene_list2, filename = NULL, imagetype = 'png', 
-                fill = c('red', 'blue'), alpha = 0.50, cat.col = rep('black', 2), 
-                col = 'black', cex = 3, fontfamily = 'serif', 
-                cat.cex = 2, cat.fontfamily = 'serif')
-pdf(file="下调基因.pdf")
-grid.draw(p)
-dev.off()
 
 im_symbol<-data_tumor[c(im_up,im_down),]
 library(stringr)
@@ -331,10 +309,8 @@ p<-ggsurvplot(fit_im,
               palette = c("#E7B800", "#2E9FDF"),
               title="Estimate Survival")
 
-save(score_surv,file = "estimate生存分析.Rdata")
 #Distribution of immune scores, stromal scores and estimated scores among different clinicopathological features
 dir.create("estatime_TNM")
-setwd("E:/ketizu/毕设plus/FPKM/estatime_TNM")
 score_class<-merge(score_tumor,TNMstage,by.x = "sample",by.y = "patient_id")
 score_class<-aggregate(score_class[,2:4],by=list(score_class$sample),FUN = mean)
 score_class<-merge(score_class,TNMstage,by.x = "Group.1",by.y = "patient_id")
@@ -343,7 +319,6 @@ score_class<-score_class[score_class$N!="NX",]
 score_class<-score_class[score_class$Stage!="Stage X",]
 score_class<-score_class[score_class$Stage!="'--",]
 
-save(score_class,file = "estatime_TNM.Rdata")
 library(ggplot2)
 library(ggsci)
 library(ggpubr)
@@ -492,8 +467,6 @@ save(immune_M,immune_stage,immune_N,immune_T,stromal_M,
 
 
 #Organize clinical data
-load("E:/ketizu/毕设plus/FPKM/expr_tumor.Rdata")
-
 dir.create('survival')
 library(readr)
 clinical <- read_tsv("clinical/clinical.tsv") 
@@ -509,12 +482,10 @@ clinical2<-clinical2[-which(clinical2$time<=0),]
 clinical2<-clinical2[,-(2:3)]
 clinical2$status<-ifelse(clinical2$vital_status=='Alive',0,1)
 colnames(clinical2)<-c("patient_id","vital_status","time","status")
-save(clinical,clinical1,clinical2,file = "clinical/临床数据.Rdata")
 
 library(stringr)
 surv_symbol<-surv_tumor
 surv_symbol<-log2(surv_symbol+1)
-save(surv_symbol,file = "log2后的临床样本表达谱.Rdata")
 
 #The differentially expressed genes were analyzed by univariate regression analysis, multivariate regression analysis and LASSO regression analysis
 dir.create('LASSO')
@@ -540,13 +511,11 @@ colnames(result) <- c("Gene","coef","HR","lower.95","upper.95","cox.p","km.p")
 result[,2:7]<-lapply(result[,2:7],as.numeric)
 diff_res<-result[which(result$cox.p<0.05),]
 
-save(result,diff_res,file = "uni-mult-LASSO/单因素cox结果.Rdata")
 genecox<-surgene[,diff_res$Gene]
 genecox<-cbind(surgene[,1:4],genecox)
 for(i in 5:172){
   genecox[,i]<-ifelse(genecox[,i]>median(genecox[,i]),1,0)
 }
-
 mult_models <- coxph(Surv(time, status)~., data = genecox[,3:172])
 
 a<-summary(mult_models)
@@ -559,7 +528,6 @@ library(stringr)
 row.names(result_mult)<-ifelse(str_detect(row.names(result_mult),'-'),str_split(row.names(result_mult),'`',simplify = T)[,2],row.names(result_mult))
 
 diff_mult<-result_mult[which(result_mult$p.value<0.05),]
-save(result_mult,diff_mult,file = "uni-mult-LASSO/多因素cox结果.Rdata")
 
 library(glmnet)
 y<-surgene[,3:4]
@@ -570,7 +538,6 @@ rownames(x1)<-surgene$patient_id
 y$time<-as.double(y$time)
 y$status<-as.double(y$status)
 y1<-Surv(y$time,y$status)
-#fit<-glmnet(x1,y1,family='cox',alpha = 1)
 fitcv<-cv.glmnet(x1,y1,family='cox',alpha = 1,nfolds = 5,type.measure = "deviance")
 cofficient<-coef(fitcv,s=fitcv$lambda.min)
 active.coff<-which(as.numeric(cofficient)!=0)
@@ -588,16 +555,13 @@ for(i in 1:1069){
   }
   TMEscore[i,2]<-c
 }
-save(TMEscore,gene10,file = "LASSO/10gene/score.Rdata")
 score_surv<-merge(clinical2,TMEscore,by.x = "patient_id",by.y = "sample")
-
 #Based on LASSO regression analysis results, KM survival curve, distribution waterfall plot and survival time distribution scatter plot of TMERS were drawn in TCGA, metabric, GSE21653 and GSE58812, respectively
 {
-setwd("E:/ketizu/毕设plus/FPKM/LASSO/uni-mult-LASSO/10倍6gene")
 output = "GSE58812"
-load(paste0("E:/ketizu/毕设plus/FPKM/TIDE/",output,"/TIDE计算结果.Rdata"))
-load(paste0("E:/ketizu/毕设plus/FPKM/LASSO/",output,"/",output,"表达谱.Rdata"))
-load(paste0("E:/ketizu/毕设plus/FPKM/LASSO/",output,"/",output,"临床数据.Rdata"))
+load(paste0(output,"/TIDE.Rdata"))
+load(paste0(output,"expression.Rdata"))
+load(paste0(output,"clincal.Rdata"))
 mat<-metabric_all
 sig_coef<-sig_coef
 
@@ -613,7 +577,6 @@ for(i in 1:ncol(gene)){
 
 score_surv<-merge(clinical,TMEscore,by.x = "sample",by.y = "sample")
 
-save(clinical,score_surv,TMEscore,file = paste0(output,"_临床数据和TMERS.Rdata"))
 library(survival)
 library(ggplot2)
 library(survminer)
@@ -668,8 +631,6 @@ p<-ggplot(scoreplot,aes(x = num,y = score,fill = group))+
   theme(legend.title = element_text(size = 5), 
         legend.text = element_text(size = 5))
 
-ggsave("GSE21653双向瀑布图.png",p,width=4,height=3)
-ggsave("GSE58812双向瀑布图.pdf",p,width=4,height=3)
 
 p<-ggplot()+
   geom_point(data=scoreplot,aes(x=num, y=time,colour=group),size=1)+
@@ -679,12 +640,9 @@ p<-ggplot()+
   scale_color_manual(breaks = c("Alive","Dead"),
                      values = c("#EFC000","#0073C2"))
 
-ggsave("TCGA散点时间图.png",p,width=4,height=2)
-ggsave("GSE58812散点时间图.pdf",p,width=4,height=2)
 }
 
 #Distribution of TMERS between clinicopathological features and breast cancer subtypes
-setwd("E:/ketizu/毕设plus/FPKM")
 TNMplot<-merge(TNMstage,score_surv,by.x = "patient_id",by.y = "sample")
 library(ggplot2)
 library(ggpubr)
@@ -839,13 +797,8 @@ pheatmap(pic_map,show_rownames = T,show_colnames = F,
          legend_breaks = c(1:4), 
          legend_labels = c("1","2","3","4"),
          main = "",filename = "TNM/map.pdf",height = 3,width = 7)
-save(class_map,pic_map,file = "TNM/分布热图.Rdata")
 
 #To confirmed whether the prognostic signature are independent prognostic factors for BRCA, univariate and multivariate Cox regression analyses were performed on BRCA patients.
-setwd("E:/ketizu/毕设plus/FPKM")
-load("E:/ketizu/毕设plus/FPKM/clinical/TNM分期.Rdata")
-load("E:/ketizu/毕设plus/FPKM/clinical/临床数据.Rdata")
-
 dir.create("prognostic ")
 prognostic<-merge(clinical2,TNMstage,by.x = "patient_id",by.y = "patient_id")
 
@@ -910,12 +863,12 @@ forestplot(labeltext=as.matrix(result1[,c(1,6,7)]),
            mean=result1$HR,
            lower=result1$lower.95,
            upper=result1$upper.95,
-           zero=1,#森林图中基准线的位置
+           zero=1,
            boxsize=0.2,
-           graph.pos=2,#定位森林图所在的位置。通过数字来确定为第几列。
-           lwd.zero=1.5,#无效线的宽度 |
-           lwd.ci=2,#置信区间线条的宽度（粗细） |
-           lineheight = unit(10,'mm'),#行的高度，可以是数字，也可以是 unit 的形式 
+           graph.pos=2,
+           lwd.zero=1.5,
+           lwd.ci=2,
+           lineheight = unit(10,'mm'),
            colgap=unit(2,'mm'),
            col=fpColors(box='#458B00',
                         summary='#8B008B',
@@ -926,7 +879,7 @@ forestplot(labeltext=as.matrix(result1[,c(1,6,7)]),
            lty.ci = "solid",
            txt_gp = fpTxtGp(ticks = gpar(cex = 0.85),
                             xlab  = gpar(cex = 0.8),
-                            cex = 0.9),#设置表格中文本的格式
+                            cex = 0.9),
            line.margin = 0.08,xticks = c(0,1,2,4,6))
 
 
@@ -963,10 +916,6 @@ result_mult<-data.frame(coef=round(as.matrix(a$coefficients[,1]),3),
 result_mult$variable<-row.names(result_mult)
 
 result_mult$CI<-paste0(result_mult$HR,"(",result_mult$lower.95,"-",result_mult$upper.95,")")
-#result_mult[7,]<-c(0.382,1.466,1.032,2.081,0.03250534,"RiskScore","1.466(1.032-2.081)")
-#result_mult[,1:5]<-lapply(result_mult[,1:5],as.numeric) 
-
-#result_mult1<-result_mult[which(result_mult$p.value<0.05),]
 result_mult1<-result_mult
 
 result_mult1$p.value<-ifelse(result_mult1$p.value<0.001,"<0.001",round(result_mult1$p.value,3))
@@ -978,12 +927,12 @@ forestplot(labeltext=as.matrix(result_mult1[,c(6,5,7)]),
            mean=result_mult1$HR,
            lower=result_mult1$lower.95,
            upper=result_mult1$upper.95,
-           zero=1,#森林图中基准线的位置
+           zero=1,
            boxsize=0.2,
-           graph.pos=2,#定位森林图所在的位置。通过数字来确定为第几列。
-           lwd.zero=1.5,#无效线的宽度 |
-           lwd.ci=2,#置信区间线条的宽度（粗细） |
-           lineheight = unit(10,'mm'),#行的高度，可以是数字，也可以是 unit 的形式 
+           graph.pos=2,
+           lwd.zero=1.5,
+           lwd.ci=2,
+           lineheight = unit(10,'mm'),
            colgap=unit(2,'mm'),
            col=fpColors(box='#458B00',
                         summary='#8B008B',
@@ -994,10 +943,9 @@ forestplot(labeltext=as.matrix(result_mult1[,c(6,5,7)]),
            lty.ci = "solid",
            txt_gp = fpTxtGp(ticks = gpar(cex = 0.85),
                             xlab  = gpar(cex = 0.8),
-                            cex = 0.9),#设置表格中文本的格式
+                            cex = 0.9),
            line.margin = 0.08,xticks = c(0,1,2,3,4))
 
-save(result,result_mult,file = "prognostic/单因素-多因素.Rdata")
 #combined with prognostic characteristics, age and tumor pathological stage, a comprehensive Nomogram information map was further constructed
 library(rms)
 library(regplot)
@@ -1050,12 +998,8 @@ plot(cal2,lwd=2,lty=1,errbar.col=c(rgb(0,118,192,maxColorValue=255)),
      col=c(rgb(192,98,83,maxColorValue=255)))
 title(main="20-year calibration curve")
 dev.off()
-save(nom,res.cox,res.cox2,res.cox3,file = "prognostic/列线图与校准曲线.Rdata")
 
-
-#绘制决策曲线(Decision Curve)
 library(rmda)
-#首先分别构建三个因素的简单模型
 nom1<-nom[which(nom$time<3650),]
 
 simple1<- decision_curve(status~Age,data= nom1,
@@ -1075,15 +1019,14 @@ simple3<- decision_curve(status~Pathologic_tumor_stage,data= nom1,
                          thresholds= seq(0,.4, by = 0.01),
                          confidence.intervals = 0.95,
                          bootstraps = 10)
-#把simple三个模型合成一个list
 List<-list(simple1,simple2,simple3)
 
 plot_decision_curve(List,
                     curve.names=c('Age','RiskScore','Stage'),
                     cost.benefit.axis =FALSE,
-                    col= c('red','blue','green',"black",'black'),#设置线的颜色
+                    col= c('red','blue','green',"black",'black'),
                     confidence.intervals=FALSE,
-                    lwd = c(4,4,4,2,2),#设置线的粗细
+                    lwd = c(4,4,4,2,2),
                     standardize = FALSE,
                     xlab = "Threshold probability")+title("10-years DCA curve")
 
@@ -1109,15 +1052,14 @@ List<-list(simple1,simple2,simple3)
 plot_decision_curve(List,
                     curve.names=c('Age','RiskScore','Stage'),
                     cost.benefit.axis =FALSE,
-                    col= c('red','blue','green',"black",'black'),#设置线的颜色
+                    col= c('red','blue','green',"black",'black'),
                     confidence.intervals=FALSE,
-                    lwd = c(4,4,4,2,2),#设置线的粗细
+                    lwd = c(4,4,4,2,2),
                     standardize = FALSE,
                     xlab = "Threshold probability")+title("20-years DCA curve")
 
 
 ##The prognostic signature correlated with immune cell infiltration in BRCA
-setwd("E:/ketizu/毕设plus/FPKM")
 dir.create("immune")
 library(xCell)
 xCell  = xCellAnalysis(as.matrix(data_symbol), rnaseq = TRUE)
@@ -1169,12 +1111,10 @@ for(i in 1:22){
   ggsave(paste("immune/cell/",colnames(pic_data)[i],".pdf",sep = ""),p,width = 2.5,height = 2.5)
 }
 #Correlation between the degree of immune cell infiltration and TMERS, prognostic genes, immune score, stromal score, and estimated score
-load("E:/ketizu/毕业设计/疾病样本得分及表达谱.Rdata")
 score_tumor<-score_tumor[,-(4:5)]
 row.names(score_tumor)<-gsub("\\.","-",row.names(score_tumor))
 score_tumor$sample<-row.names(score_tumor)
 score_tumor$sample<-str_sub(score_tumor$sample,1,12)
-save(score_tumor,scores,file = "immune/estimate得分.Rdata")
 
 gene6<-deg[sig_coef$gene,]
 gene6<-data.frame(t(gene6))
@@ -1214,8 +1154,6 @@ pheatmap(cor_matrix,
          cluster_rows = F,cluster_cols = F,
          show_rownames = T,show_colnames = T,angle_col = 45,
          cellwidth = 20, cellheight = 12,color=color)
-save(xcell,tumor_xcell,file = "immune/免疫细胞丰度.Rdata")
-save(TME_cor,annodata,cor_matrix,p_matrix,file = "immune/计算差异.Rdata")
 library(pheatmap)
 library(RColorBrewer)
 color<- colorRampPalette(c('#87CEFA','white','red'))(100)
@@ -1228,7 +1166,7 @@ picdata1<-picdata[,c(rownames(annodata)[which(annodata$condition=="High")],
 
 annodata1<-data.frame(row.names = row.names(annodata),condition=annodata[,2])
 picdata1[,1:1069]<-lapply(picdata1[,1:1069],as.numeric)
-#6gene
+
 n=t(scale(t(picdata1[24:29,])))
 n[n>1]=1
 n[n< -1]= -1
@@ -1236,7 +1174,7 @@ pheatmap(n,show_rownames = T,show_colnames = F,
          cluster_rows = T,cluster_cols = F,
          annotation_col = annodata1,color=color,
          main = "",cellwidth = 0.3, cellheight = 10)
-#22cell
+
 n=t(scale(t(picdata1[1:22,])))
 n[n>1]=1
 n[n< -1]= -1
@@ -1244,7 +1182,7 @@ pheatmap(n,show_rownames = T,show_colnames = F,
          cluster_rows = T,cluster_cols = F,
          annotation_col = annodata1,color=color,
          main = "",cellwidth = 0.3, cellheight = 10)
-#3score
+
 n=t(scale(t(picdata1[30:32,])))
 n[n>1]=1
 n[n< -1]= -1
@@ -1253,8 +1191,6 @@ pheatmap(n,show_rownames = T,show_colnames = F,
          annotation_col = annodata1,color=color,
          main = "",cellwidth = 0.3, cellheight = 10)
 ###############
-load("E:/ketizu/毕设plus/FPKM/TNM/分布热图.Rdata")
-load("E:/ketizu/毕设plus/FPKM/immune/计算差异.Rdata")
 pic_data<-TME_cor[,c(1,25:33)]
 annodata$sample<-row.names(annodata)
 annodata1<-merge(annodata[,2:3],class_map[,-6],by.x = "sample",by.y = "patient_id")
@@ -1296,19 +1232,18 @@ pheatmap(n1,show_rownames = T,show_colnames = F,
          cluster_rows = T,cluster_cols = F,
          annotation_col = annodata2[,2:7],color=color,
          main = "",cellwidth = 0.3, cellheight = 10,
-         filename = "immune/6gene所有分类.pdf",width=8,heigh=4)
+         filename = "immune/gene_pheatmap.pdf",width=8,heigh=4)
 
 pheatmap(n2,show_rownames = T,show_colnames = F, 
          cluster_rows = T,cluster_cols = F,color=color,
          main = "",cellwidth = 0.3, cellheight = 10,
-         filename = "immune/3score.pdf",width=8,heigh=4)
+         filename = "immune/score_pheatmap.pdf",width=8,heigh=4)
 
 pheatmap(n1,show_rownames = T,show_colnames = F, 
          cluster_rows = T,cluster_cols = F,
          annotation_col = annodata1[,2:7],color=color,
          main = "",cellwidth = 0.3, cellheight = 10)
 
-save(annodata,annodata2,pic_data,file = "immune/6gene与3score.Rdata")
 library(pheatmap)
 library(RColorBrewer)
 color<- colorRampPalette(c('#87CEFA','white','red'))(100)
@@ -1324,15 +1259,12 @@ pheatmap(n,show_rownames = T,show_colnames = F,
          cluster_rows = T,cluster_cols = F,
          color=color,
          main = "",cellwidth = 0.3, cellheight = 10,
-         filename = "immune/免疫检查点分布.pdf",width=8,heigh=5)
+         filename = "immune/Immune checkpoint distribution.pdf",width=8,heigh=5)
 		 
 #The prognostic signature positively correlated with tumor mutation burden
-setwd("E:/ketizu/毕设plus/FPKM")
 dir.create("TMB")
 library(maftools)
 laml<-read.maf("TMB/TCGA.BRCA.mutect.995c0111-d90b-4140-bee7-3845436c3b42.DR-10.0.somatic.maf")
-
-save(laml,file = "TMB/突变分析结果.Rdata")
 
 plotmafSummary(maf = laml,rmOutlier = T,
                addStat = "median",dashboard = T,titvRaw = F)
@@ -1348,8 +1280,6 @@ p<-ggboxplot(sample_variant,x="group",y="Variants",
              add = "jitter",outlier.shape = NA)+
   coord_cartesian(ylim = (boxplot.stats(sample_variant$Variants)$stats[c(1, 5)])*1.05)+
   stat_compare_means(label.y = 1)
-ggsave("TMB/TMB_TMERS箱.png",p,width = 3,height = 4)
-ggsave("TMB/TMB_TMERS箱.pdf",p,width = 3,height = 4)
 #Distribution of risk scores between high and low TMB groups
 sample_variant$group<-ifelse(sample_variant$Variants>median(sample_variant$Variants),"High TMB","Low TMB")
 p<-ggboxplot(sample_variant,x="group",y="score",
@@ -1358,19 +1288,14 @@ p<-ggboxplot(sample_variant,x="group",y="score",
              add = "jitter",outlier.shape = NA)+
   coord_cartesian(ylim = (boxplot.stats(sample_variant$score)$stats[c(1, 5)])*1.05)+
   stat_compare_means(label.y = -1.3)
-
-ggsave("TMB/TMB_TMERS箱2.png",p,width = 3,height = 4)
-ggsave("TMB/TMB_TMERS箱2.pdf",p,width = 3,height = 4)
 #Correlation between risk score and TMB
 p<-ggplot(data=sample_variant, aes(x=score, y=Variants))+geom_point(color="blue")+
   stat_smooth(method="lm",se=FALSE)+
-  theme_bw()+#去除背景色
-  theme(panel.grid=element_blank())+#去除网格线
+  theme_bw()+
+  theme(panel.grid=element_blank())+
   stat_cor(data=sample_variant, method = "spearman")+
   labs(x="TMERS",y="TMB",title = "")
-
-ggsave("TMB/TMB_TMERS散点spearman.png",p,width = 4,height = 4)
-ggsave("TMB/TMB_TMERS散点spearman.pdf",p,width = 4,height = 4)
+ggsave("TMB/TMB_TMERSspearman.pdf",p,width = 4,height = 4)
 
 #Plot the cascade of mutated genes grouped into high and low risk groups
 sample_variant<-laml@variants.per.sample
@@ -1396,11 +1321,8 @@ oncoplot(maf = laml,top = 20,borderCol = NULL,
 
 #The TIDE algorithm was used to estimate the TIDE score for each sample
 {
-setwd("E:/ketizu/毕设plus/FPKM/TIDE")
 dir.create("metabric")
-setwd("E:/ketizu/毕设plus/FPKM/TIDE/metabric")
 library(survival)
-
 CTL_genes = c('CD8A', 'CD8B', 'GZMA', 'GZMB', 'PRF1')
 readmat = function(mat) as.matrix(read.table(mat, sep='\t', header=T, check.names=F, quote=NULL))
 
@@ -1522,8 +1444,6 @@ for(i in 1:1069){
   BRCA_TIDE[i,1]<-cor(dys_expr[,i],result_diff[,1],method="pearson")
 }
 #############Calculate the correlation of T Cell Exclusion
-load("E:/ketizu/毕设plus/FPKM/TIDE/Exclusion计算使用的数据.Rdata")
-
 for(i in 1:1069){
   BRCA_TIDE[i,2]<-cor(excl_expr[,i],excl_ave[,4],method="pearson")
 }
@@ -1531,10 +1451,6 @@ tumor_TIDE<-merge(BRCA_TIDE,CTL_surv,by.x = "Sample",by.y = "sample")
 tumor_TIDE$TIDE<-ifelse(tumor_TIDE$CTL>mean(tumor_TIDE$CTL),tumor_TIDE$Dysfunction,tumor_TIDE$Exclusion)
 tumor_TIDE$group<-ifelse(tumor_TIDE$CTL>mean(tumor_TIDE$CTL),"High","Low")
 tumor_TIDE$scale<-scale(tumor_TIDE$TIDE)
-
-save(BRCA_TIDE,tumor_TIDE,file = "TIDE/TIDE结果.Rdata")
-
-setwd("E:/ketizu/毕设plus/FPKM")
 
 #############Correlation between risk score and PD-1,PD-L1,CTLA4
 #PD-L1
