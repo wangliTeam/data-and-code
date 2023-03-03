@@ -1,0 +1,1140 @@
+enhancer_name	drug_name	NES	NPL	PL	MI	regulation	Mutation.Status	Methylation.Status	CNV.Status	regualation_class
+chr10:4283808-4284356	spironolactone	1.5534237002199	0.001	2	1553.4237002199	Promotion	Non_mutation	Hypermethylation	Amp	Downregulated
+chr10:4283808-4284356	bepridil	1.53498012985896	0.001	2	1534.98012985896	Promotion	Non_mutation	Hypermethylation	Amp	Downregulated
+chr10:4283808-4284356	betamethasone	1.53071167680756	0.001	2	1530.71167680756	Promotion	Non_mutation	Hypermethylation	Amp	Downregulated
+chr10:4283808-4284356	paclitaxel	1.49671914033012	0.001	2	1496.71914033012	Promotion	Non_mutation	Hypermethylation	Amp	Downregulated
+chr10:4283808-4284356	dexamethasone	1.46070136228132	0.001	2	1460.70136228132	Promotion	Non_mutation	Hypermethylation	Amp	Downregulated
+chr10:7583205-7583490	spiperone	2.0921720799215	0.001	2	2092.1720799215	Promotion	Non_mutation	Hypermethylation	Amp	Downregulated
+chr10:7583205-7583490	oxymetazoline	1.88729011671703	0.001	2	1887.29011671703	Promotion	Non_mutation	Hypermethylation	Amp	Downregulated
+chr10:7583205-7583490	trichostatin a	1.86325851306418	0.001	2	1863.25851306418	Promotion	Non_mutation	Hypermethylation	Amp	Downregulated
+chr10:7583205-7583490	tolfenamic acid	1.78035456258192	0.001	2	1780.35456258192	Promotion	Non_mutation	Hypermethylation	Amp	Downregulated
+chr10:7583205-7583490	mefloquine	1.76331007991036	0.001	2	1763.31007991036	Promotion	Non_mutation	Hypermethylation	Amp	Downregulated
+chr1:10447707-10448369	tetracycline	1.59406204793386	0.002	3	797.03102396693	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr1:10447707-10448369	oxytetracycline	1.56860425079149	0.012	3	130.717020899291	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr1:10447707-10448369	isoxsuprine	1.5141124368328	0.026	4	58.2350937243385	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr1:10447707-10448369	acebutolol	1.53817092612592	0.04	4	38.454273153148	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr1:10447707-10448369	tolnaftate	1.46527875945628	0.044	4	33.3017899876427	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr11:10935638-10935889	debrisoquine	1.3299419536278	0.036	4	36.9428320452167	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:10935638-10935889	hydrocotarnine	1.32784274191955	0.05	4	26.556854838391	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:10935638-10935889	guanabenz	1.32090729413644	0.072	4	18.3459346407839	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:10935638-10935889	famotidine	1.3224694676038	0.074	4	17.871209021673	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:10935638-10935889	lidoflazine	1.3302414981189	0.078	4	17.0543781810115	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:113929515-113929738	acebutolol	1.50893645932969	0.001	2	1508.93645932969	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr11:113929515-113929738	oxolinic acid	1.67557758359901	0.036	4	46.5438217666392	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr11:113929515-113929738	gemfibrozil	1.56238216575326	0.04	3	39.0595541438315	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr11:113929515-113929738	tranexamic acid	1.5649507784156	0.044	4	35.5670631458091	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr11:113929515-113929738	pargyline	1.55919691258438	0.044	4	35.4362934678268	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr11:114127214-114127717	spiperone	2.0318958058534	0.001	2	2031.8958058534	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:114127214-114127717	trichostatin a	1.84976424969608	0.001	2	1849.76424969608	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:114127214-114127717	mefloquine	1.76447554822353	0.001	2	1764.47554822353	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:114127214-114127717	oxymetazoline	1.76205846853236	0.001	2	1762.05846853236	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:114127214-114127717	tolfenamic acid	1.70505387153372	0.001	2	1705.05387153372	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:118663387-118663780	trichostatin a	1.83550906189875	0.001	2	1835.50906189875	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:118663387-118663780	dexverapamil	1.77001391267125	0.001	2	1770.01391267125	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:118663387-118663780	irinotecan	1.7418542979922	0.001	2	1741.8542979922	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:118663387-118663780	mefloquine	1.71183683035933	0.001	2	1711.83683035933	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:118663387-118663780	oxymetazoline	1.70985291399522	0.001	2	1709.85291399522	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:122936469-122936659	hesperidin	1.92813394613032	0.001	2	1928.13394613032	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:122936469-122936659	thalidomide	1.71978810033567	0.001	2	1719.78810033567	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:122936469-122936659	dexamethasone	1.5808664934434	0.001	2	1580.8664934434	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:122936469-122936659	paclitaxel	1.53884642534037	0.001	2	1538.84642534037	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:122936469-122936659	gemfibrozil	1.5283948069642	0.001	2	1528.3948069642	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:123951200-123951810	zoxazolamine	1.68568279510327	0.092	4	18.3226390772095	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:123951200-123951810	paracetamol	1.67578565097797	0.094	4	17.8275069252976	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:123951200-123951810	brompheniramine	1.62670628178518	0.12	4	13.5558856815432	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:123951200-123951810	cefotetan	1.6548016234754	0.176	4	9.40228195156477	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:123951200-123951810	amantadine	1.65155518178381	0.176	4	9.38383626013528	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:12561282-12561501	spiperone	1.83607303702762	0.001	2	1836.07303702762	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:12561282-12561501	trichostatin a	1.81491394028417	0.001	2	1814.91394028417	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:12561282-12561501	oxymetazoline	1.79278158860585	0.001	2	1792.78158860585	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:12561282-12561501	hesperidin	1.72227163174541	0.001	2	1722.27163174541	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:12561282-12561501	tolfenamic acid	1.68296594518766	0.001	2	1682.96594518766	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:125992920-125993185	spiperone	2.07976841001534	0.001	2	2079.76841001534	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:125992920-125993185	trichostatin a	1.91611090786387	0.001	2	1916.11090786387	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:125992920-125993185	oxymetazoline	1.80770625363343	0.001	2	1807.70625363343	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:125992920-125993185	tolfenamic acid	1.68498704619342	0.001	2	1684.98704619342	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:125992920-125993185	mefloquine	1.66593829803774	0.001	2	1665.93829803774	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:125997963-125998111	spiperone	2.04577132363303	0.001	2	2045.77132363303	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:125997963-125998111	trichostatin a	1.88627326365022	0.001	2	1886.27326365022	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:125997963-125998111	oxymetazoline	1.84908542670429	0.001	2	1849.08542670429	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:125997963-125998111	tolfenamic acid	1.7016512799727	0.001	2	1701.6512799727	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:125997963-125998111	mefloquine	1.67542658677571	0.001	2	1675.42658677571	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:126001132-126001515	spiperone	2.1103854317647	0.001	2	2110.3854317647	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:126001132-126001515	trichostatin a	1.87894680358184	0.001	2	1878.94680358184	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:126001132-126001515	oxymetazoline	1.82242858245145	0.001	2	1822.42858245145	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:126001132-126001515	tolfenamic acid	1.72833401214257	0.001	2	1728.33401214257	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:126001132-126001515	mefloquine	1.69511293252597	0.001	2	1695.11293252597	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:129244480-129244782	disulfiram	1.8174185241985	0.001	2	1817.4185241985	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr11:129244480-129244782	lisuride	1.71442769760971	0.001	2	1714.42769760971	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr11:129244480-129244782	perphenazine	1.67302258547825	0.001	2	1673.02258547825	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr11:129244480-129244782	mianserin	1.64001751083799	0.001	2	1640.01751083799	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr11:129244480-129244782	sulpiride	1.63471788098955	0.001	2	1634.71788098955	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr11:12973520-12973623	tropicamide	1.49076021370005	0.004	4	372.690053425012	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:12973520-12973623	zimeldine	1.39320805572026	0.004	4	348.302013930065	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:12973520-12973623	acemetacin	1.52078465787375	0.008	4	190.098082234219	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:12973520-12973623	scopoletin	1.48185960068868	0.008	4	185.232450086085	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:12973520-12973623	bromperidol	1.50616313676645	0.012	4	125.513594730538	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:14916687-14916856	bromocriptine	1.67896032547262	0.001	2	1678.96032547262	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:14916687-14916856	troglitazone	1.62988603956414	0.001	2	1629.88603956414	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:14916687-14916856	diazoxide	1.5936869838355	0.001	2	1593.6869838355	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:14916687-14916856	lobeline	1.34860675775965	0.014	3	96.3290541256893	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:14916687-14916856	picotamide	1.7832771501591	0.036	4	49.5354763933083	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:1751706-1752102	sulpiride	1.69643538561131	0.001	2	1696.43538561131	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:1751706-1752102	tetracycline	1.67538617705214	0.001	2	1675.38617705214	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:1751706-1752102	mianserin	1.67487830225932	0.001	2	1674.87830225932	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:1751706-1752102	methazolamide	1.64791923290837	0.001	2	1647.91923290837	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:1751706-1752102	nomifensine	1.60907701007906	0.001	2	1609.07701007906	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:1894620-1894889	spiperone	1.9568939134554	0.001	2	1956.8939134554	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:1894620-1894889	oxymetazoline	1.77151122002428	0.001	2	1771.51122002428	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:1894620-1894889	mefloquine	1.7288164408454	0.001	2	1728.8164408454	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:1894620-1894889	trichostatin a	1.70294644500008	0.001	2	1702.94644500008	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:1894620-1894889	hycanthone	1.70271005010987	0.001	2	1702.71005010987	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:2009660-2010154	levobunolol	1.33392135981418	0.001	4	1333.92135981418	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:2009660-2010154	ketotifen	1.33272737566486	0.001	4	1332.72737566486	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:2009660-2010154	tracazolate	1.33022338834301	0.001	4	1330.22338834301	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:2009660-2010154	fludrocortisone	1.32761020354861	0.001	4	1327.61020354861	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:2009660-2010154	metitepine	1.32759164287819	0.001	4	1327.59164287819	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr1:12210430-12211346	guanethidine	1.54324304433413	0.002	4	771.621522167065	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr1:12210430-12211346	isometheptene	1.8640219358078	0.004	4	466.00548395195	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr1:12210430-12211346	tyloxapol	1.74295875805144	0.008	4	217.86984475643	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr1:12210430-12211346	bambuterol	1.62713456479972	0.008	4	203.391820599965	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr1:12210430-12211346	clenbuterol	1.65227064017532	0.022	4	75.10321091706	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr1:12589452-12589763	spiperone	1.84252887291433	0.001	2	1842.52887291433	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr1:12589452-12589763	nitrendipine	1.78741007308905	0.001	2	1787.41007308905	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr1:12589452-12589763	oxymetazoline	1.70805434259732	0.001	2	1708.05434259732	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr1:12589452-12589763	droperidol	1.66222703342861	0.001	2	1662.22703342861	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr1:12589452-12589763	chloramphenicol	1.65689156790645	0.001	2	1656.89156790645	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:2907965-2908172	spiperone	2.06907243816092	0.001	2	2069.07243816092	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr11:2907965-2908172	oxymetazoline	1.89620826922792	0.001	2	1896.20826922792	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr11:2907965-2908172	trichostatin a	1.83337317269483	0.001	2	1833.37317269483	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr11:2907965-2908172	tolfenamic acid	1.73859762816845	0.001	2	1738.59762816845	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr11:2907965-2908172	mefloquine	1.68207437016092	0.001	2	1682.07437016092	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr11:33713598-33714029	spiperone	2.28504539981487	0.001	2	2285.04539981487	Promotion	Non_mutation	Hypermethylation	Amp	Downregulated
+chr11:33713598-33714029	pindolol	2.06507189260588	0.001	2	2065.07189260588	Promotion	Non_mutation	Hypermethylation	Amp	Downregulated
+chr11:33713598-33714029	disulfiram	2.03253722698547	0.001	2	2032.53722698547	Promotion	Non_mutation	Hypermethylation	Amp	Downregulated
+chr11:33713598-33714029	tolfenamic acid	1.91589617687754	0.001	2	1915.89617687754	Promotion	Non_mutation	Hypermethylation	Amp	Downregulated
+chr11:33713598-33714029	amitriptyline	1.90084567109466	0.001	2	1900.84567109466	Promotion	Non_mutation	Hypermethylation	Amp	Downregulated
+chr11:6344620-6344857	spiperone	1.9690518612526	0.001	2	1969.0518612526	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:6344620-6344857	disulfiram	1.8457619462088	0.001	2	1845.7619462088	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:6344620-6344857	tolfenamic acid	1.79876251129787	0.001	2	1798.76251129787	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:6344620-6344857	pindolol	1.65628661239395	0.001	2	1656.28661239395	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:6344620-6344857	mianserin	1.65033987925362	0.001	2	1650.33987925362	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr1:16489021-16489207	anisomycin	2.05642512632561	0.01	3	205.642512632561	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr1:16489021-16489207	perphenazine	1.52017544871415	0.02	3	76.0087724357075	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr1:16489021-16489207	oxolinic acid	1.64423017274115	0.022	4	74.7377351245977	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr1:16489021-16489207	hydrastinine	1.52144387330153	0.06	4	25.3573978883588	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr1:16489021-16489207	etodolac	1.72849971080178	0.098	4	17.6377521510386	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr1:16511251-16511623	promazine	1.92559103455123	0.004	3	481.397758637807	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr1:16511251-16511623	perphenazine	1.54567251670521	0.012	3	128.806043058768	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr1:16511251-16511623	homosalate	1.93970127200757	0.072	4	26.9402954445496	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr1:16511251-16511623	fluocinonide	1.99170235559973	0.102	4	19.5264936823503	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr1:16511251-16511623	metaraminol	1.86486392776459	0.166	4	11.2341200467746	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:7913705-7913868	spiperone	1.96117543814418	0.001	2	1961.17543814418	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:7913705-7913868	disulfiram	1.88578983543037	0.001	2	1885.78983543037	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:7913705-7913868	mefloquine	1.76574846565201	0.001	2	1765.74846565201	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:7913705-7913868	dexamethasone	1.75234695755826	0.001	2	1752.34695755826	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr11:7913705-7913868	astemizole	1.73851076029451	0.001	2	1738.51076029451	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr12:12425810-12426042	protriptyline	2.02011183173087	0.116	4	17.4147571700937	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr12:12425810-12426042	cefoperazone	1.48841757027635	0.156	4	9.54113827100224	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr12:12425810-12426042	pyrimethamine	1.50814665789841	0.17	4	8.87145092881418	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr12:12425810-12426042	nimodipine	1.7155468374018	0.302	4	5.68061866689338	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr12:12425810-12426042	alfadolone	1.74621331000559	NA	NA	1.74621331000559	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr12:13376138-13376415	chlorambucil	1.33237840909875	0.002	4	666.189204549375	Promotion	Non_mutation	Hypomethylation	Del	Downregulated
+chr12:13376138-13376415	nialamide	1.32189370138468	0.002	4	660.94685069234	Promotion	Non_mutation	Hypomethylation	Del	Downregulated
+chr12:13376138-13376415	fluocinonide	1.32100425579269	0.002	4	660.502127896345	Promotion	Non_mutation	Hypomethylation	Del	Downregulated
+chr12:13376138-13376415	benzamil	1.33047495845095	0.004	4	332.618739612737	Promotion	Non_mutation	Hypomethylation	Del	Downregulated
+chr12:13376138-13376415	flunisolide	1.32648852833017	0.004	4	331.622132082542	Promotion	Non_mutation	Hypomethylation	Del	Downregulated
+chr1:234658291-234658851	nicergoline	1.50479570986208	0.012	4	125.399642488507	Promotion	Non_mutation	Hypermethylation	Amp	Downregulated
+chr1:234658291-234658851	antazoline	1.52931299029496	0.014	4	109.236642163926	Promotion	Non_mutation	Hypermethylation	Amp	Downregulated
+chr1:234658291-234658851	ajmaline	1.60325175760313	0.016	4	100.203234850196	Promotion	Non_mutation	Hypermethylation	Amp	Downregulated
+chr1:234658291-234658851	coralyne	1.66921923718086	0.02	4	83.460961859043	Promotion	Non_mutation	Hypermethylation	Amp	Downregulated
+chr1:234658291-234658851	cinnarizine	1.48901263068827	0.018	3	82.7229239271261	Promotion	Non_mutation	Hypermethylation	Amp	Downregulated
+chr1:24477754-24478041	troglitazone	1.66203530808717	0.001	3	1662.03530808717	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr1:24477754-24478041	baclofen	1.46330495408684	0.002	3	731.65247704342	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr1:24477754-24478041	irinotecan	1.65043791512775	0.008	3	206.304739390969	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr1:24477754-24478041	hydrochlorothiazide	1.61185671320639	0.018	3	89.5475951781328	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr1:24477754-24478041	nicergoline	1.62202959714947	0.068	4	23.8533764286687	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr12:52241099-52241559	dexamethasone	1.32367106470249	0.078	4	16.9701418551601	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr1:27184739-27184972	clonidine	1.31843548295438	0.001	3	1318.43548295438	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr1:27185457-27185720	fluticasone	1.68889695944782	0.02	3	84.444847972391	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr1:27185457-27185720	nafcillin	2.15375327510107	0.066	4	32.6326253803192	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr1:27185457-27185720	tolfenamic acid	1.52861883469098	0.05	3	30.5723766938196	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr1:27185457-27185720	sulmazole	1.88565504292031	0.114	4	16.5408337098273	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr1:27185457-27185720	niclosamide	1.55268930472643	0.118	3	13.1583839383596	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr14:104018443-104019067	dexamethasone	1.70822675379558	0.001	2	1708.22675379558	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr14:104018443-104019067	disulfiram	1.65986453325545	0.001	2	1659.86453325545	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr14:104018443-104019067	hesperidin	1.64877385193082	0.001	2	1648.77385193082	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr14:104018443-104019067	trichostatin a	1.635344821415	0.001	2	1635.344821415	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr14:104018443-104019067	fisetin	1.61376626697344	0.001	2	1613.76626697344	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr14:42075138-42075996	spiperone	2.03551203872482	0.001	2	2035.51203872482	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr14:42075138-42075996	oxymetazoline	1.88282722503411	0.001	2	1882.82722503411	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr14:42075138-42075996	trichostatin a	1.81725617369633	0.001	2	1817.25617369633	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr14:42075138-42075996	tolfenamic acid	1.71422283679993	0.001	2	1714.22283679993	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr14:42075138-42075996	mefloquine	1.69951458385133	0.001	2	1699.51458385133	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr14:95984814-95985165	spiperone	2.01247461096543	0.001	2	2012.47461096543	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr14:95984814-95985165	oxymetazoline	1.86596939536458	0.001	2	1865.96939536458	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr14:95984814-95985165	trichostatin a	1.71668785297281	0.001	2	1716.68785297281	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr14:95984814-95985165	mefloquine	1.68924585068665	0.001	2	1689.24585068665	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr14:95984814-95985165	tolfenamic acid	1.68431730102573	0.001	2	1684.31730102573	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr14:95992355-95992583	trichostatin a	1.97752788472042	0.001	2	1977.52788472042	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr14:95992355-95992583	alsterpaullone	1.90898089294102	0.001	2	1908.98089294102	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr14:95992355-95992583	hycanthone	1.74871512455652	0.001	2	1748.71512455652	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr14:95992355-95992583	oxymetazoline	1.71170453117573	0.001	2	1711.70453117573	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr14:95992355-95992583	etoposide	1.69339687225239	0.001	2	1693.39687225239	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr16:2557760-2557909	amoxapine	1.62164547323434	0.001	2	1621.64547323434	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr16:2557760-2557909	cefoperazone	1.45175753024017	0.012	3	120.979794186681	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr16:2557760-2557909	glibenclamide	1.44450910320987	0.014	3	103.179221657848	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr16:2557760-2557909	adenosine phosphate	1.64839566860264	0.03	3	54.9465222867547	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr16:2557760-2557909	hycanthone	1.86032781685272	0.038	3	48.9559951803347	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr16:49893175-49893278	naloxone	1.78052264055786	0.001	2	1780.52264055786	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr16:49893175-49893278	pentoxifylline	1.70729430041798	0.001	2	1707.29430041798	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr16:49893175-49893278	flufenamic acid	1.66070610444718	0.001	2	1660.70610444718	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr16:49893175-49893278	gemfibrozil	1.62372910037977	0.001	2	1623.72910037977	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr16:49893175-49893278	methotrexate	1.61227288090304	0.001	2	1612.27288090304	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr16:53075249-53075847	spiperone	2.08813599070656	0.001	2	2088.13599070656	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr16:53075249-53075847	oxymetazoline	1.86644717260774	0.001	2	1866.44717260774	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr16:53075249-53075847	irinotecan	1.85835275727937	0.001	2	1858.35275727937	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr16:53075249-53075847	disulfiram	1.85400124819996	0.001	2	1854.00124819996	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr16:53075249-53075847	mefloquine	1.84409841629946	0.001	2	1844.09841629946	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr16:58160772-58161211	gramine	1.88925470317689	0.001	2	1889.25470317689	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr16:58160772-58161211	fluticasone	1.7910470106562	0.001	2	1791.0470106562	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr16:58160772-58161211	chloramphenicol	1.65629604223386	0.001	2	1656.29604223386	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr16:58160772-58161211	glimepiride	1.65622136517808	0.001	2	1656.22136517808	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr16:58160772-58161211	trichostatin a	1.6328912484942	0.001	2	1632.8912484942	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr16:79635433-79635866	spiperone	2.15194960956667	0.001	2	2151.94960956667	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr16:79635433-79635866	oxymetazoline	1.86633231635437	0.001	2	1866.33231635437	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr16:79635433-79635866	trichostatin a	1.84473713637151	0.001	2	1844.73713637151	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr16:79635433-79635866	tolfenamic acid	1.75052717258457	0.001	2	1750.52717258457	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr16:79635433-79635866	mefloquine	1.72899915925461	0.001	2	1728.99915925461	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr16:79692252-79692530	spiperone	2.12114325980327	0.001	2	2121.14325980327	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr16:79692252-79692530	tolfenamic acid	1.85354356079551	0.001	2	1853.54356079551	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr16:79692252-79692530	ursolic acid	1.72699608168711	0.001	2	1726.99608168711	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr16:79692252-79692530	etodolac	1.7205677718546	0.001	2	1720.5677718546	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr16:79692252-79692530	dexamethasone	1.6904165665481	0.001	2	1690.4165665481	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr16:83953538-83953937	spiperone	1.84350402876022	0.001	2	1843.50402876022	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr16:83953538-83953937	trichostatin a	1.84069295520348	0.001	2	1840.69295520348	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr16:83953538-83953937	oxymetazoline	1.73754407949766	0.001	2	1737.54407949766	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr16:83953538-83953937	mefloquine	1.6241897918447	0.001	2	1624.1897918447	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr16:83953538-83953937	dequalinium chloride	1.60771159586764	0.001	2	1607.71159586764	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr16:83960761-83960901	trichostatin a	1.84799627416998	0.001	2	1847.99627416998	Promotion	Non_mutation	Hypomethylation	Del	Downregulated
+chr16:83960761-83960901	spiperone	1.81959166946518	0.001	2	1819.59166946518	Promotion	Non_mutation	Hypomethylation	Del	Downregulated
+chr16:83960761-83960901	oxymetazoline	1.6678627434885	0.001	2	1667.8627434885	Promotion	Non_mutation	Hypomethylation	Del	Downregulated
+chr16:83960761-83960901	mefloquine	1.66560535791243	0.001	2	1665.60535791243	Promotion	Non_mutation	Hypomethylation	Del	Downregulated
+chr16:83960761-83960901	alsterpaullone	1.65271406360979	0.001	2	1652.71406360979	Promotion	Non_mutation	Hypomethylation	Del	Downregulated
+chr16:87359959-87360279	trichostatin a	1.96293114689812	0.001	2	1962.93114689812	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr16:87359959-87360279	spiperone	1.8293168047385	0.001	2	1829.3168047385	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr16:87359959-87360279	hesperidin	1.80312117807697	0.001	2	1803.12117807697	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr16:87359959-87360279	oxymetazoline	1.68416001559107	0.001	2	1684.16001559107	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr16:87359959-87360279	chloramphenicol	1.67017370328918	0.001	2	1670.17370328918	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr17:4811647-4812042	isoxsuprine	1.49695370412107	0.01	4	149.695370412107	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr17:4811647-4812042	clofazimine	1.65324325042779	0.036	4	45.9234236229942	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr17:4811647-4812042	levamisole	1.54566882490398	0.034	4	45.4608477912935	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr17:4811647-4812042	lidoflazine	1.8156645689393	0.04	4	45.3916142234825	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr17:4811647-4812042	rimexolone	1.66478644142308	0.042	4	39.6377724148352	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr17:7035868-7036444	clonidine	1.56838990161937	0.001	2	1568.38990161937	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr17:7035868-7036444	terbutaline	1.54312645430155	0.001	2	1543.12645430155	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr17:7035868-7036444	betaxolol	1.46651343710935	0.001	2	1466.51343710935	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr17:7035868-7036444	acebutolol	1.43222766537731	0.001	2	1432.22766537731	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr17:7035868-7036444	syrosingopine	1.588759766337	0.03	3	52.9586588779	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr17:7737438-7738736	spiperone	1.9890408871825	0.001	2	1989.0408871825	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr17:7737438-7738736	trichostatin a	1.93508630720418	0.001	2	1935.08630720418	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr17:7737438-7738736	oxymetazoline	1.83057316330043	0.001	2	1830.57316330043	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr17:7737438-7738736	mefloquine	1.70434433402967	0.001	2	1704.34433402967	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr17:7737438-7738736	iproniazid	1.68492872434757	0.001	2	1684.92872434757	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr17:8095551-8095762	flucloxacillin	1.32849977449147	0.001	4	1328.49977449147	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr17:8095551-8095762	pirlindole	1.31717467072128	0.001	4	1317.17467072128	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr17:8095551-8095762	alfaxalone	1.32058426244861	0.182	5	7.25595748598137	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr17:8095551-8095762	tocainide	1.31736595623467	0.374	5	3.52236886693762	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr17:8095551-8095762	scopoletin	1.32106316358462	0.768	5	1.72013432758414	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr18:12306995-12307375	spiperone	2.102712374936	0.001	2	2102.712374936	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr18:12306995-12307375	oxymetazoline	1.89955140683919	0.001	2	1899.55140683919	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr18:12306995-12307375	thalidomide	1.77479360070175	0.001	2	1774.79360070175	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr18:12306995-12307375	tolfenamic acid	1.76162704123182	0.001	2	1761.62704123182	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr18:12306995-12307375	trichostatin a	1.7364249402664	0.001	2	1736.4249402664	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr1:8194345-8194402	etodolac	1.95771297748348	0.001	2	1957.71297748348	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr1:8194345-8194402	dexamethasone	1.77763945756693	0.001	2	1777.63945756693	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr1:8194345-8194402	mianserin	1.75671123677525	0.001	2	1756.71123677525	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr1:8194345-8194402	tolfenamic acid	1.70863341489845	0.001	2	1708.63341489845	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr1:8194345-8194402	thalidomide	1.69306919222055	0.001	2	1693.06919222055	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr1:8195042-8195246	spiperone	2.14571494939636	0.001	2	2145.71494939636	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr1:8195042-8195246	disulfiram	2.07882739476126	0.001	2	2078.82739476126	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr1:8195042-8195246	pindolol	1.92044858310864	0.001	2	1920.44858310864	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr1:8195042-8195246	tolfenamic acid	1.88917010377055	0.001	2	1889.17010377055	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr1:8195042-8195246	thioridazine	1.84925676524769	0.001	2	1849.25676524769	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr1:8198088-8198334	spiperone	2.07115787597659	0.001	2	2071.15787597659	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr1:8198088-8198334	disulfiram	2.02151547152444	0.001	2	2021.51547152444	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr1:8198088-8198334	tolfenamic acid	1.87456460818489	0.001	2	1874.56460818489	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr1:8198088-8198334	pindolol	1.86638943514415	0.001	2	1866.38943514415	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr1:8198088-8198334	mianserin	1.84693653601513	0.001	2	1846.93653601513	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr18:74277239-74277430	sirolimus	1.76713481291208	0.024	3	73.63061720467	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr18:74277239-74277430	ly-294002	2.01191201476361	0.318	4	6.32676734202393	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr18:74277239-74277430	triamterene	1.8028060531971	0.506	4	3.56285781264249	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr18:74277239-74277430	ethionamide	1.89442017884808	NA	NA	1.89442017884808	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr19:675402-675838	oxymetazoline	1.86380804186063	0.001	2	1863.80804186063	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr19:675402-675838	irinotecan	1.83039866280921	0.001	2	1830.39866280921	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr19:675402-675838	alsterpaullone	1.82061703983844	0.001	2	1820.61703983844	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr19:675402-675838	mefloquine	1.79098432103657	0.001	2	1790.98432103657	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr19:675402-675838	ranitidine	1.72761148984205	0.001	2	1727.61148984205	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr19:863983-864016	trichostatin a	1.82980816184583	0.001	2	1829.80816184583	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr19:863983-864016	spiperone	1.8013608395693	0.001	2	1801.3608395693	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr19:863983-864016	iproniazid	1.7997063610936	0.001	2	1799.7063610936	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr19:863983-864016	sulfinpyrazone	1.7298657873653	0.001	2	1729.8657873653	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr19:863983-864016	loperamide	1.69103816367888	0.001	2	1691.03816367888	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr19:867005-867400	trichostatin a	1.85426736262541	0.001	2	1854.26736262541	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr19:867005-867400	alsterpaullone	1.79878631270598	0.001	2	1798.78631270598	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr19:867005-867400	mesalazine	1.77356496964867	0.001	2	1773.56496964867	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr19:867005-867400	scriptaid	1.74842640368955	0.001	2	1748.42640368955	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr19:867005-867400	spiperone	1.73577758718249	0.001	2	1735.77758718249	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr20:1744868-1745008	spiperone	2.08804907901402	0.001	2	2088.04907901402	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1744868-1745008	oxymetazoline	1.89767781086199	0.001	2	1897.67781086199	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1744868-1745008	disulfiram	1.79464371416217	0.001	2	1794.64371416217	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1744868-1745008	trichostatin a	1.78741579529887	0.001	2	1787.41579529887	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1744868-1745008	tolfenamic acid	1.75118228759224	0.001	2	1751.18228759224	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1747670-1747986	spiperone	1.98271540856505	0.001	2	1982.71540856505	Promotion	Non_mutation	Hypomethylation	Del	Downregulated
+chr20:1747670-1747986	oxymetazoline	1.88196534065495	0.001	2	1881.96534065495	Promotion	Non_mutation	Hypomethylation	Del	Downregulated
+chr20:1747670-1747986	trichostatin a	1.80860245768738	0.001	2	1808.60245768738	Promotion	Non_mutation	Hypomethylation	Del	Downregulated
+chr20:1747670-1747986	disulfiram	1.77164181125878	0.001	2	1771.64181125878	Promotion	Non_mutation	Hypomethylation	Del	Downregulated
+chr20:1747670-1747986	dexamethasone	1.74932974631089	0.001	2	1749.32974631089	Promotion	Non_mutation	Hypomethylation	Del	Downregulated
+chr20:1757222-1757297	spiperone	2.03656695338093	0.001	2	2036.56695338093	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr20:1757222-1757297	disulfiram	1.68835125642087	0.001	2	1688.35125642087	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr20:1757222-1757297	thioproperazine	1.65232136152525	0.001	2	1652.32136152525	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr20:1757222-1757297	famotidine	1.59905713991258	0.001	2	1599.05713991258	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr20:1757222-1757297	apomorphine	1.58898585423351	0.001	2	1588.98585423351	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr20:1757792-1758093	disulfiram	1.75900411861084	0.001	2	1759.00411861084	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1757792-1758093	thioproperazine	1.70605872395612	0.001	2	1706.05872395612	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1757792-1758093	minaprine	1.65368490558343	0.001	2	1653.68490558343	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1757792-1758093	tetracycline	1.64109410732926	0.001	2	1641.09410732926	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1757792-1758093	gemfibrozil	1.62388005570265	0.001	2	1623.88005570265	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1766926-1767304	spiperone	1.9859974886509	0.001	2	1985.9974886509	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1766926-1767304	etodolac	1.8994045405216	0.001	2	1899.4045405216	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1766926-1767304	tolfenamic acid	1.80008076824032	0.001	2	1800.08076824032	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1766926-1767304	disulfiram	1.78524618987379	0.001	2	1785.24618987379	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1766926-1767304	mianserin	1.71467176594516	0.001	2	1714.67176594516	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1782055-1782441	spiperone	2.08091034718397	0.001	2	2080.91034718397	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1782055-1782441	oxymetazoline	1.95757551972129	0.001	2	1957.57551972129	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1782055-1782441	trichostatin a	1.83596601221043	0.001	2	1835.96601221043	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1782055-1782441	disulfiram	1.78493855453914	0.001	2	1784.93855453914	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1782055-1782441	tolfenamic acid	1.7418314341902	0.001	2	1741.8314341902	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1785698-1786068	spiperone	2.07648352866841	0.001	2	2076.48352866841	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1785698-1786068	oxymetazoline	1.90463140813031	0.001	2	1904.63140813031	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1785698-1786068	trichostatin a	1.79671453313974	0.001	2	1796.71453313974	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1785698-1786068	disulfiram	1.78637030073742	0.001	2	1786.37030073742	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1785698-1786068	mefloquine	1.75170986645657	0.001	2	1751.70986645657	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1786412-1786943	spiperone	2.02168544159497	0.001	2	2021.68544159497	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1786412-1786943	oxymetazoline	1.89612768350529	0.001	2	1896.12768350529	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1786412-1786943	disulfiram	1.80592095844672	0.001	2	1805.92095844672	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1786412-1786943	amitriptyline	1.73303371447453	0.001	2	1733.03371447453	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1786412-1786943	gemfibrozil	1.73121384098945	0.001	2	1731.21384098945	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1789800-1790010	spiperone	2.03275554519949	0.001	2	2032.75554519949	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1789800-1790010	pindolol	1.66135505816846	0.001	2	1661.35505816846	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1789800-1790010	thioproperazine	1.65699493803416	0.001	2	1656.99493803416	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1789800-1790010	nomifensine	1.61171939491718	0.001	2	1611.71939491718	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1789800-1790010	minaprine	1.5999095710715	0.001	2	1599.9095710715	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1790289-1790734	spiperone	1.98547371874527	0.001	2	1985.47371874527	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1790289-1790734	tolfenamic acid	1.88017276329603	0.001	2	1880.17276329603	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1790289-1790734	disulfiram	1.86410823549537	0.001	2	1864.10823549537	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1790289-1790734	dexamethasone	1.81528644516085	0.001	2	1815.28644516085	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1790289-1790734	pindolol	1.77961151932613	0.001	2	1779.61151932613	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1792448-1792844	thalidomide	1.63326144255167	0.001	2	1633.26144255167	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1792448-1792844	nomifensine	1.57013594766099	0.001	2	1570.13594766099	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1792448-1792844	ebselen	1.56261861731983	0.001	2	1562.61861731983	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1792448-1792844	tetracycline	1.50932038012	0.001	2	1509.32038012	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1792448-1792844	mianserin	1.50403976915054	0.001	2	1504.03976915054	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1793760-1794139	bucladesine	1.70125334067745	0.002	4	850.626670338725	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1793760-1794139	tetracycline	1.61005764508542	0.002	3	805.02882254271	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1793760-1794139	perphenazine	1.55230649352567	0.008	3	194.038311690709	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1793760-1794139	isoxsuprine	1.67749988055056	0.016	4	104.84374253441	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1793760-1794139	betaxolol	1.4667712783664	0.016	4	91.6732048979	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1839579-1839847	mianserin	1.81295224781767	0.001	2	1812.95224781767	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1839579-1839847	dexamethasone	1.73085761650372	0.001	2	1730.85761650372	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1839579-1839847	tetracycline	1.68595908170868	0.001	2	1685.95908170868	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1839579-1839847	triamcinolone	1.66654529404763	0.001	2	1666.54529404763	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1839579-1839847	nomifensine	1.66523628669545	0.001	2	1665.23628669545	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1842464-1842590	spiperone	1.99323343018729	0.001	2	1993.23343018729	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1842464-1842590	pindolol	1.77991830091068	0.001	2	1779.91830091068	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1842464-1842590	mianserin	1.73540427960719	0.001	2	1735.40427960719	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1842464-1842590	nomifensine	1.71649020259377	0.001	2	1716.49020259377	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1842464-1842590	sodium phenylbutyrate	1.62117743995728	0.001	2	1621.17743995728	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1851849-1852180	tolfenamic acid	1.91841419850679	0.001	2	1918.41419850679	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1851849-1852180	etodolac	1.78235450507903	0.001	2	1782.35450507903	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1851849-1852180	disulfiram	1.77273581188831	0.001	2	1772.73581188831	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1851849-1852180	nimesulide	1.75963808706376	0.001	2	1759.63808706376	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1851849-1852180	thioproperazine	1.74751941006891	0.001	2	1747.51941006891	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1852496-1852815	spiperone	2.09423705477833	0.001	2	2094.23705477833	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1852496-1852815	tolfenamic acid	1.92568993803275	0.001	2	1925.68993803275	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1852496-1852815	disulfiram	1.83784118070742	0.001	2	1837.84118070742	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1852496-1852815	etodolac	1.82053802414394	0.001	2	1820.53802414394	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1852496-1852815	nimesulide	1.73650664611063	0.001	2	1736.50664611063	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1869680-1870159	spiperone	2.05619332389494	0.001	2	2056.19332389494	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1869680-1870159	oxymetazoline	1.90941189564955	0.001	2	1909.41189564955	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1869680-1870159	disulfiram	1.85068490605415	0.001	2	1850.68490605415	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1869680-1870159	trichostatin a	1.79216925221989	0.001	2	1792.16925221989	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:1869680-1870159	dexamethasone	1.74319685306067	0.001	2	1743.19685306067	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr20:30628092-30628575	trichostatin a	1.81747388557039	0.001	2	1817.47388557039	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr20:30628092-30628575	spiperone	1.77548267838952	0.001	2	1775.48267838952	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr20:30628092-30628575	oxymetazoline	1.72146101092159	0.001	2	1721.46101092159	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr20:30628092-30628575	mefloquine	1.60085276125301	0.001	2	1600.85276125301	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr20:30628092-30628575	dexverapamil	1.52418662660316	0.001	2	1524.18662660316	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr20:39312030-39312408	cefoperazone	1.47782437095158	0.026	4	56.8393988827531	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr20:39312030-39312408	phenacetin	1.61544121935556	0.836	5	1.93234595616694	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr20:39312030-39312408	sisomicin	1.5536929283443	NA	NA	1.5536929283443	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr21:17906909-17907886	spiperone	2.03319889117795	0.001	2	2033.19889117795	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr21:17906909-17907886	oxymetazoline	1.87545216156155	0.001	2	1875.45216156155	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr21:17906909-17907886	disulfiram	1.82049200711012	0.001	2	1820.49200711012	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr21:17906909-17907886	mefloquine	1.799904089844	0.001	2	1799.904089844	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr21:17906909-17907886	trichostatin a	1.78181872728422	0.001	2	1781.81872728422	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr21:44598375-44598751	nomifensine	1.32495334530503	0.002	4	662.476672652515	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr21:44598375-44598751	dizocilpine	1.32288298071194	0.002	4	661.44149035597	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr21:44598375-44598751	amoxapine	1.32189358174058	0.024	4	55.0788992391908	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr21:44598375-44598751	alverine	1.32213539642504	0.786	6	1.68210610232193	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr21:44598375-44598751	clopamide	1.31669736118858	NA	NA	1.31669736118858	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr21:45916945-45917393	naloxone	1.58841176207758	0.001	2	1588.41176207758	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr21:45916945-45917393	terbutaline	1.56566225128753	0.001	2	1565.66225128753	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr21:45916945-45917393	orlistat	1.538714837248	0.001	2	1538.714837248	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr21:45916945-45917393	pindolol	1.46842529312208	0.001	2	1468.42529312208	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr21:45916945-45917393	harmine	1.46610879369042	0.001	2	1466.10879369042	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr21:47394721-47394936	menadione	2.07122471408396	0.001	2	2071.22471408396	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr21:47394721-47394936	pentoxifylline	1.96081578006803	0.001	2	1960.81578006803	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr21:47394721-47394936	mianserin	1.86161603692732	0.001	2	1861.61603692732	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr21:47394721-47394936	nocodazole	1.85909458837787	0.001	2	1859.09458837787	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr21:47394721-47394936	thalidomide	1.79751210351432	0.001	2	1797.51210351432	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr2:232505425-232505799	furazolidone	1.7225602081974	0.001	3	1722.5602081974	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr2:232505425-232505799	etacrynic acid	1.53045842798962	0.048	4	31.8845505831171	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr2:232505425-232505799	phenanthridinone	1.75790467879978	NA	NA	1.75790467879978	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr2:232505425-232505799	prestwick-864	1.63793649495627	NA	NA	1.63793649495627	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr2:232505425-232505799	meglumine	1.63759237174968	NA	NA	1.63759237174968	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr2:235353626-235353934	nitrendipine	1.92363881125376	0.001	2	1923.63881125376	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr2:235353626-235353934	alsterpaullone	1.85431413491123	0.001	2	1854.31413491123	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr2:235353626-235353934	dextromethorphan	1.79253817870574	0.001	2	1792.53817870574	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr2:235353626-235353934	harmine	1.68098529136097	0.001	2	1680.98529136097	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr2:235353626-235353934	isoniazid	1.67993402994052	0.001	2	1679.93402994052	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr2:235354817-235355457	alsterpaullone	1.92555354130018	0.001	2	1925.55354130018	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr2:235354817-235355457	nitrendipine	1.87870371969731	0.001	2	1878.70371969731	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr2:235354817-235355457	dextromethorphan	1.84016067028296	0.001	2	1840.16067028296	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr2:235354817-235355457	irinotecan	1.78175533665397	0.001	2	1781.75533665397	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr2:235354817-235355457	fusaric acid	1.74681104215475	0.001	2	1746.81104215475	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr2:235360536-235360912	nitrendipine	1.89658504971171	0.001	2	1896.58504971171	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr2:235360536-235360912	trichostatin a	1.86650047898627	0.001	2	1866.50047898627	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr2:235360536-235360912	cyclobenzaprine	1.68261508619669	0.001	2	1682.61508619669	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr2:235360536-235360912	fluvoxamine	1.57020772960548	0.001	2	1570.20772960548	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr2:235360536-235360912	nimodipine	1.56082313495189	0.001	2	1560.82313495189	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr2:235372630-235373257	spiperone	2.00974250279296	0.001	2	2009.74250279296	Promotion	Non_mutation	Hypomethylation	Del	Downregulated
+chr2:235372630-235373257	oxymetazoline	1.84713758522867	0.001	2	1847.13758522867	Promotion	Non_mutation	Hypomethylation	Del	Downregulated
+chr2:235372630-235373257	trichostatin a	1.78076036815609	0.001	2	1780.76036815609	Promotion	Non_mutation	Hypomethylation	Del	Downregulated
+chr2:235372630-235373257	mefloquine	1.77928865311957	0.001	2	1779.28865311957	Promotion	Non_mutation	Hypomethylation	Del	Downregulated
+chr2:235372630-235373257	tolfenamic acid	1.75080486060779	0.001	2	1750.80486060779	Promotion	Non_mutation	Hypomethylation	Del	Downregulated
+chr2:235397514-235398106	dexamethasone	1.60542517827671	0.001	2	1605.42517827671	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr2:235397514-235398106	tamoxifen	1.5077212092302	0.001	2	1507.7212092302	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr2:235397514-235398106	methotrexate	1.48371027616525	0.001	2	1483.71027616525	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr2:235397514-235398106	betamethasone	1.3794381621674	0.001	2	1379.4381621674	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr2:235397514-235398106	hydrochlorothiazide	1.35410731011304	0.001	2	1354.10731011304	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr22:39363763-39364255	mianserin	1.56646170669122	0.001	2	1566.46170669122	Promotion	Mutation	Non_methylation	Non_CNV	Downregulated
+chr22:39363763-39364255	vinpocetine	1.5419952320937	0.001	2	1541.9952320937	Promotion	Mutation	Non_methylation	Non_CNV	Downregulated
+chr22:39363763-39364255	amoxapine	1.52385561919857	0.001	2	1523.85561919857	Promotion	Mutation	Non_methylation	Non_CNV	Downregulated
+chr22:39363763-39364255	nomifensine	1.51045005271494	0.001	2	1510.45005271494	Promotion	Mutation	Non_methylation	Non_CNV	Downregulated
+chr22:39363763-39364255	pentoxifylline	1.49919892500442	0.001	2	1499.19892500442	Promotion	Mutation	Non_methylation	Non_CNV	Downregulated
+chr2:239754500-239754642	spiperone	2.11962061369538	0.001	2	2119.62061369538	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr2:239754500-239754642	oxymetazoline	1.91367129362223	0.001	2	1913.67129362223	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr2:239754500-239754642	trichostatin a	1.82495623841233	0.001	2	1824.95623841233	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr2:239754500-239754642	tolfenamic acid	1.75192764165264	0.001	2	1751.92764165264	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr2:239754500-239754642	mefloquine	1.71586019904163	0.001	2	1715.86019904163	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr2:241366341-241366661	guaifenesin	1.52357116734459	0.002	4	761.785583672295	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr2:241366341-241366661	trichostatin a	1.42280811794166	0.002	4	711.40405897083	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr2:241366341-241366661	withaferin a	1.55741593353446	0.926	5	1.68187465824456	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr2:241366341-241366661	prestwick-1100	1.52498619765242	NA	NA	1.52498619765242	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr2:241366341-241366661	beta-escin	1.52418638825567	NA	NA	1.52418638825567	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr2:242801923-242802843	oxybenzone	1.99455055001937	0.001	2	1994.55055001937	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr2:242801923-242802843	exemestane	1.55934713149643	0.001	2	1559.34713149643	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr2:242801923-242802843	methotrexate	1.5545014205007	0.001	2	1554.5014205007	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr2:242801923-242802843	folic acid	1.49492087558872	0.001	2	1494.92087558872	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr2:242801923-242802843	mephenytoin	1.48350785597449	0.001	2	1483.50785597449	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr4:166422422-166422684	spiperone	1.89902927486908	0.001	2	1899.02927486908	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr4:166422422-166422684	trichostatin a	1.81509402266824	0.001	2	1815.09402266824	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr4:166422422-166422684	oxymetazoline	1.81270697129829	0.001	2	1812.70697129829	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr4:166422422-166422684	gemfibrozil	1.72480916551115	0.001	2	1724.80916551115	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr4:166422422-166422684	tolfenamic acid	1.71680764372308	0.001	2	1716.80764372308	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr4:174435467-174435730	nocodazole	1.77849852797442	0.001	2	1778.49852797442	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr4:174435467-174435730	pentoxifylline	1.75715596688841	0.001	2	1757.15596688841	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr4:174435467-174435730	paclitaxel	1.6507980318566	0.001	2	1650.7980318566	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr4:174435467-174435730	dexamethasone	1.59643267880529	0.001	2	1596.43267880529	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr4:174435467-174435730	thalidomide	1.56924236372382	0.001	2	1569.24236372382	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr4:184686793-184687036	spiperone	1.9181862511875	0.001	2	1918.1862511875	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr4:184686793-184687036	trichostatin a	1.83571102316578	0.001	2	1835.71102316578	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr4:184686793-184687036	oxymetazoline	1.73732001290537	0.001	2	1737.32001290537	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr4:184686793-184687036	mefloquine	1.66213694789067	0.001	2	1662.13694789067	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr4:184686793-184687036	tolfenamic acid	1.64031489251817	0.001	2	1640.31489251817	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr4:184718887-184719489	spiperone	2.04243528652166	0.001	2	2042.43528652166	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr4:184718887-184719489	oxymetazoline	1.84063441533636	0.001	2	1840.63441533636	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr4:184718887-184719489	disulfiram	1.83473715419984	0.001	2	1834.73715419984	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr4:184718887-184719489	dexamethasone	1.79243653192667	0.001	2	1792.43653192667	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr4:184718887-184719489	tolfenamic acid	1.74311025890923	0.001	2	1743.11025890923	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr4:185769532-185770063	fluticasone	1.33002640016313	0.001	3	1330.02640016313	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr4:185769532-185770063	diflorasone	1.3322669293111	0.004	4	333.066732327775	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr4:185769532-185770063	halcinonide	1.31880976747336	0.004	4	329.70244186834	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr4:185769532-185770063	letrozole	1.32708185380109	0.026	4	51.0416097615804	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr4:185769532-185770063	tretinoin	1.32809702778117	0.048	4	27.6686880787744	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr4:187762182-187762435	spiperone	1.67170775304737	0.044	3	37.9933580238039	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr4:187762182-187762435	mafenide	1.72694018883733	0.1	4	17.2694018883733	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr4:187762182-187762435	hydrastinine	1.56881255595691	0.112	4	14.007254963901	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr4:187762182-187762435	furazolidone	1.71221395203051	0.124	4	13.8081770325041	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr4:187762182-187762435	levobunolol	1.71905771538737	0.158	4	10.8801121227049	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr4:187948547-187948771	trichostatin a	1.95344020473929	0.001	2	1953.44020473929	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr4:187948547-187948771	spiperone	1.93638354941818	0.001	2	1936.38354941818	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr4:187948547-187948771	oxymetazoline	1.76356269106242	0.001	2	1763.56269106242	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr4:187948547-187948771	tolfenamic acid	1.67894561504256	0.001	2	1678.94561504256	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr4:187948547-187948771	dequalinium chloride	1.65794655338335	0.001	2	1657.94655338335	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr5:172192263-172193766	8-azaguanine	2.29517969315623	0.001	2	2295.17969315623	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr5:172192263-172193766	ouabain	2.03727355903115	0.001	2	2037.27355903115	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr5:172192263-172193766	digoxin	1.8498427089971	0.001	2	1849.8427089971	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr5:172192263-172193766	menadione	1.83154470534557	0.001	2	1831.54470534557	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr5:172192263-172193766	gemfibrozil	1.82732866810684	0.001	2	1827.32866810684	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr5:56784239-56784594	spiperone	1.93533377451662	0.001	2	1935.33377451662	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr5:56784239-56784594	trichostatin a	1.83645805622623	0.001	2	1836.45805622623	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr5:56784239-56784594	oxymetazoline	1.77643549205516	0.001	2	1776.43549205516	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr5:56784239-56784594	tolfenamic acid	1.68113387705168	0.001	2	1681.13387705168	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr5:56784239-56784594	mefloquine	1.68038501056934	0.001	2	1680.38501056934	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:112428707-112428734	spiperone	1.97787316449246	0.001	2	1977.87316449246	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:112428707-112428734	trichostatin a	1.89729835332399	0.001	2	1897.29835332399	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:112428707-112428734	oxymetazoline	1.81396981335564	0.001	2	1813.96981335564	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:112428707-112428734	tolfenamic acid	1.67595676259726	0.001	2	1675.95676259726	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:112428707-112428734	mefloquine	1.65679643834962	0.001	2	1656.79643834962	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:113748852-113749029	spiperone	1.98669920754541	0.001	2	1986.69920754541	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:113748852-113749029	disulfiram	1.847148525527	0.001	2	1847.148525527	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:113748852-113749029	trichostatin a	1.81734570693255	0.001	2	1817.34570693255	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:113748852-113749029	mefloquine	1.71608149075874	0.001	2	1716.08149075874	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:113748852-113749029	tolfenamic acid	1.71253579927017	0.001	2	1712.53579927017	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:116767554-116767785	tranylcypromine	1.64022089386781	0.008	3	205.027611733476	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:116767554-116767785	etodolac	1.69299744200571	0.014	3	120.928388714694	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:116767554-116767785	meclofenamic acid	1.66375138000673	0.016	3	103.984461250421	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:116767554-116767785	artemisinin	1.6048989836692	0.02	3	80.24494918346	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:116767554-116767785	primaquine	1.58116511871451	0.03	3	52.7055039571503	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:117069916-117070184	spiperone	2.06191248096372	0.001	2	2061.91248096372	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:117069916-117070184	trichostatin a	1.86392998791862	0.001	2	1863.92998791862	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:117069916-117070184	oxymetazoline	1.79993438442025	0.001	2	1799.93438442025	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:117069916-117070184	tolfenamic acid	1.72478632336404	0.001	2	1724.78632336404	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:117069916-117070184	mefloquine	1.69798332479668	0.001	2	1697.98332479668	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:126068034-126068254	dequalinium chloride	1.66450251684248	0.016	3	104.031407302655	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr6:126068034-126068254	norfloxacin	1.6076931205773	0.016	3	100.480820036081	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr6:126068034-126068254	fusaric acid	1.56330285698176	0.03	3	52.1100952327253	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr6:126068034-126068254	dyclonine	1.60430921703284	0.05	3	32.0861843406568	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr6:126068034-126068254	oxybenzone	1.71667235728586	0.056	3	30.6548635229618	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr6:1311143-1311466	spiperone	1.54875620327493	0.044	3	35.1990046198848	Promotion	Non_mutation	Hypomethylation	Del	Downregulated
+chr6:1311143-1311466	loperamide	1.5479098883237	0.046	3	33.6502149635587	Promotion	Non_mutation	Hypomethylation	Del	Downregulated
+chr6:1311143-1311466	naloxone	1.60815995574885	0.068	3	23.6494111139537	Promotion	Non_mutation	Hypomethylation	Del	Downregulated
+chr6:1311143-1311466	tranexamic acid	1.54668988733609	0.098	4	15.7825498707764	Promotion	Non_mutation	Hypomethylation	Del	Downregulated
+chr6:1311143-1311466	perphenazine	1.50918749836863	0.098	3	15.399872432333	Promotion	Non_mutation	Hypomethylation	Del	Downregulated
+chr6:140299062-140299512	oxybenzone	2.16689641320457	0.001	2	2166.89641320457	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:140299062-140299512	chloramphenicol	1.89328457957923	0.001	2	1893.28457957923	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:140299062-140299512	ebselen	1.67550768570296	0.001	2	1675.50768570296	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:140299062-140299512	ursodeoxycholic acid	1.58327326550653	0.001	2	1583.27326550653	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:140299062-140299512	fluticasone	1.57938842266047	0.001	2	1579.38842266047	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:148358652-148358995	atovaquone	1.57257922861847	0.001	4	1572.57922861847	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:148358652-148358995	enilconazole	1.65931177303365	0.002	4	829.655886516825	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:148358652-148358995	nystatin	1.57296839127751	0.006	4	262.161398546252	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:148358652-148358995	gliclazide	1.54750727625523	0.01	4	154.750727625523	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:148358652-148358995	tyrphostin ag-1478	1.56784406123262	0.012	4	130.653671769385	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:151178145-151178545	spiperone	2.0219099071864	0.001	2	2021.9099071864	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:151178145-151178545	oxymetazoline	1.82760073739746	0.001	2	1827.60073739746	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:151178145-151178545	tolfenamic acid	1.68243658638972	0.001	2	1682.43658638972	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:151178145-151178545	dexamethasone	1.64615364318187	0.001	2	1646.15364318187	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:151178145-151178545	pindolol	1.63567120090436	0.001	2	1635.67120090436	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:158136804-158137189	spiperone	1.98262157614268	0.001	2	1982.62157614268	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr6:158136804-158137189	oxymetazoline	1.81182337606213	0.001	2	1811.82337606213	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr6:158136804-158137189	tolfenamic acid	1.64326475498344	0.001	2	1643.26475498344	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr6:158136804-158137189	8-azaguanine	1.64269479601386	0.001	2	1642.69479601386	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr6:158136804-158137189	bepridil	1.61295765393556	0.001	2	1612.95765393556	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr6:163775171-163775345	spiperone	2.00455260799642	0.001	2	2004.55260799642	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:163775171-163775345	disulfiram	1.87834646079068	0.001	2	1878.34646079068	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:163775171-163775345	irinotecan	1.82659041868737	0.001	2	1826.59041868737	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:163775171-163775345	mefloquine	1.76347411643938	0.001	2	1763.47411643938	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:163775171-163775345	dexamethasone	1.74351238276215	0.001	2	1743.51238276215	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:169475360-169475647	bepridil	1.64232096431639	0.001	2	1642.32096431639	Promotion	Non_mutation	Hypomethylation	Del	Downregulated
+chr6:169475360-169475647	oxybenzone	1.62738995137987	0.001	2	1627.38995137987	Promotion	Non_mutation	Hypomethylation	Del	Downregulated
+chr6:169475360-169475647	artemisinin	1.50483529089652	0.001	2	1504.83529089652	Promotion	Non_mutation	Hypomethylation	Del	Downregulated
+chr6:169475360-169475647	chloramphenicol	1.43157892313267	0.001	2	1431.57892313267	Promotion	Non_mutation	Hypomethylation	Del	Downregulated
+chr6:169475360-169475647	nitrendipine	1.41634777740038	0.001	2	1416.34777740038	Promotion	Non_mutation	Hypomethylation	Del	Downregulated
+chr6:169827902-169828288	spiperone	1.86823539574182	0.001	2	1868.23539574182	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:169827902-169828288	irinotecan	1.79073376124309	0.001	2	1790.73376124309	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:169827902-169828288	disulfiram	1.77941489714397	0.001	2	1779.41489714397	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:169827902-169828288	daunorubicin	1.75793942732275	0.001	2	1757.93942732275	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:169827902-169828288	dextromethorphan	1.6786114092516	0.001	2	1678.6114092516	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:170208297-170208700	trichostatin a	1.92875305548679	0.001	2	1928.75305548679	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:170208297-170208700	dexverapamil	1.66813479848662	0.001	2	1668.13479848662	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:170208297-170208700	mefloquine	1.62696462966599	0.001	2	1626.96462966599	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:170208297-170208700	gefitinib	1.52853478876061	0.001	2	1528.53478876061	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:170208297-170208700	spironolactone	1.51466905872127	0.001	2	1514.66905872127	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:170482866-170483129	dequalinium chloride	1.66966950271921	0.01	3	166.966950271921	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:170482866-170483129	vinburnine	1.51380622180789	0.014	3	108.129015843421	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:170482866-170483129	fusaric acid	1.78133757729318	0.02	3	89.066878864659	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:170482866-170483129	metitepine	1.52104572347901	0.018	3	84.5025401932783	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:170482866-170483129	harmine	1.58982478219773	0.038	3	41.8374942683613	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:170491997-170492052	benzydamine	1.53325136910192	0.042	4	36.5059849786171	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:170491997-170492052	milrinone	1.94516572103073	0.106	4	18.3506200097239	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:170491997-170492052	norfloxacin	1.66749770613108	0.114	4	14.6271728607989	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:170491997-170492052	etacrynic acid	1.57675758111958	0.116	4	13.5927377682722	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:170491997-170492052	tyrphostin ag-1478	1.76226834992683	0.142	4	12.4103404924425	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:170492436-170492647	gemfibrozil	1.6094379415683	0.01	3	160.94379415683	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:170492436-170492647	milrinone	1.78538187149149	0.1	4	17.8538187149149	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:170492436-170492647	etacrynic acid	1.55866876421942	0.106	4	14.7044223039568	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:170492436-170492647	mexiletine	1.75190492956476	0.12	4	14.599207746373	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:170492436-170492647	norfloxacin	1.65191722785012	0.114	4	14.4905019986853	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:7701709-7702095	meclofenamic acid	1.82722543764957	0.002	3	913.612718824785	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:7701709-7702095	tranylcypromine	1.71224471749497	0.002	3	856.122358747485	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:7701709-7702095	famotidine	1.47080197153844	0.002	3	735.40098576922	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:7701709-7702095	tetracycline	1.75761345919995	0.004	3	439.403364799987	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr6:7701709-7702095	diltiazem	1.52541034085789	0.004	3	381.352585214473	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr7:128094514-128094949	tolfenamic acid	1.72251587625973	0.001	2	1722.51587625973	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr7:128094514-128094949	mesalazine	1.722241969734	0.001	2	1722.241969734	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr7:128094514-128094949	oxymetazoline	1.68138985938306	0.001	2	1681.38985938306	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr7:128094514-128094949	lidocaine	1.67446099607495	0.001	2	1674.46099607495	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr7:128094514-128094949	naloxone	1.66580441664998	0.001	2	1665.80441664998	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr7:151591335-151591652	spiperone	1.997261027286	0.001	2	1997.261027286	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr7:151591335-151591652	disulfiram	1.79716771158408	0.001	2	1797.16771158408	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr7:151591335-151591652	mefloquine	1.780409890582	0.001	2	1780.409890582	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr7:151591335-151591652	trichostatin a	1.76531821127379	0.001	2	1765.31821127379	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr7:151591335-151591652	oxymetazoline	1.74237411444125	0.001	2	1742.37411444125	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr7:151622915-151623433	trichostatin a	1.92850153452773	0.001	2	1928.50153452773	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr7:151622915-151623433	paclitaxel	1.67860477998543	0.001	2	1678.60477998543	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr7:151622915-151623433	spironolactone	1.64013643868805	0.001	2	1640.13643868805	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr7:151622915-151623433	mefloquine	1.62102634272453	0.001	2	1621.02634272453	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr7:151622915-151623433	loperamide	1.59259118426341	0.001	2	1592.59118426341	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr7:33943577-33943776	ergocalciferol	1.3341964092266	0.001	4	1334.1964092266	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr7:33943577-33943776	carbenoxolone	1.32554834246579	0.001	4	1325.54834246579	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr7:33943577-33943776	glycocholic acid	1.31710355393087	0.604	6	2.18063502306435	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr7:33943577-33943776	lomustine	1.32982015447802	0.646	5	2.05854513077093	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr7:33943577-33943776	pha-00846566e	1.32942534568906	NA	NA	1.32942534568906	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr8:10725251-10725387	hesperidin	1.87247364709168	0.001	2	1872.47364709168	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr8:10725251-10725387	dexamethasone	1.58000241652958	0.001	2	1580.00241652958	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr8:10725251-10725387	rimexolone	1.53073401334734	0.001	2	1530.73401334734	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr8:10725251-10725387	dihydroergocristine	1.50682998335434	0.001	2	1506.82998335434	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr8:10725251-10725387	spironolactone	1.49360052343049	0.001	2	1493.60052343049	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr8:12615021-12615285	spiperone	2.04181922410163	0.001	2	2041.81922410163	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr8:12615021-12615285	gemfibrozil	1.8070107130038	0.001	2	1807.0107130038	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr8:12615021-12615285	mefloquine	1.80164498734608	0.001	2	1801.64498734608	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr8:12615021-12615285	oxymetazoline	1.74524546244269	0.001	2	1745.24546244269	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr8:12615021-12615285	irinotecan	1.74300988136251	0.001	2	1743.00988136251	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr8:12615395-12615750	sulpiride	1.68975809364442	0.001	2	1689.75809364442	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr8:12615395-12615750	dexamethasone	1.59692143190839	0.001	2	1596.92143190839	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr8:12615395-12615750	clindamycin	1.39323954605633	0.02	3	69.6619773028165	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr8:12615395-12615750	famotidine	1.52682648542352	0.04	3	38.170662135588	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr8:12615395-12615750	syrosingopine	1.46074745237875	0.048	3	30.432238591224	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr8:144107532-144108153	mianserin	1.76418104101627	0.001	2	1764.18104101627	Promotion	Non_mutation	Hypermethylation	Amp	Downregulated
+chr8:144107532-144108153	dexamethasone	1.64098783477663	0.001	2	1640.98783477663	Promotion	Non_mutation	Hypermethylation	Amp	Downregulated
+chr8:144107532-144108153	amitriptyline	1.62145912950082	0.001	2	1621.45912950082	Promotion	Non_mutation	Hypermethylation	Amp	Downregulated
+chr8:144107532-144108153	tetracycline	1.60726001291459	0.001	2	1607.26001291459	Promotion	Non_mutation	Hypermethylation	Amp	Downregulated
+chr8:144107532-144108153	irinotecan	1.59828168391231	0.001	2	1598.28168391231	Promotion	Non_mutation	Hypermethylation	Amp	Downregulated
+chr8:22535910-22536200	chlorogenic acid	1.73390264092696	0.001	3	1733.90264092696	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr8:22535910-22536200	cantharidin	1.6411646782575	0.001	3	1641.1646782575	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr8:22535910-22536200	betaxolol	1.38854821075289	0.004	3	347.137052688222	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr8:22535910-22536200	syrosingopine	1.67184172460666	0.01	3	167.184172460666	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr8:22535910-22536200	emetine	1.66364700727382	0.012	3	138.637250606152	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr8:2530387-2530737	dexamethasone	1.60089967634306	0.001	2	1600.89967634306	Promotion	Non_mutation	Hypomethylation	Del	Downregulated
+chr8:2530387-2530737	sodium phenylbutyrate	1.52365274205491	0.001	2	1523.65274205491	Promotion	Non_mutation	Hypomethylation	Del	Downregulated
+chr8:2530387-2530737	paclitaxel	1.49351426263274	0.001	2	1493.51426263274	Promotion	Non_mutation	Hypomethylation	Del	Downregulated
+chr8:2530387-2530737	spironolactone	1.43587551109173	0.001	2	1435.87551109173	Promotion	Non_mutation	Hypomethylation	Del	Downregulated
+chr8:2530387-2530737	amitriptyline	1.42660835600425	0.001	2	1426.60835600425	Promotion	Non_mutation	Hypomethylation	Del	Downregulated
+chr8:27449540-27450013	spiperone	1.83593957346424	0.001	2	1835.93957346424	Promotion	Non_mutation	Hypomethylation	Del	Downregulated
+chr8:27449540-27450013	mefloquine	1.75437289913342	0.001	2	1754.37289913342	Promotion	Non_mutation	Hypomethylation	Del	Downregulated
+chr8:27449540-27450013	trichostatin a	1.74060262460687	0.001	2	1740.60262460687	Promotion	Non_mutation	Hypomethylation	Del	Downregulated
+chr8:27449540-27450013	oxymetazoline	1.69552600912188	0.001	2	1695.52600912188	Promotion	Non_mutation	Hypomethylation	Del	Downregulated
+chr8:27449540-27450013	dequalinium chloride	1.68951960873273	0.001	2	1689.51960873273	Promotion	Non_mutation	Hypomethylation	Del	Downregulated
+chr8:27559719-27559880	minaprine	1.66501401417605	0.001	2	1665.01401417605	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr8:27559719-27559880	disulfiram	1.6374876437044	0.001	2	1637.4876437044	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr8:27559719-27559880	perphenazine	1.54411480647897	0.001	2	1544.11480647897	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr8:27559719-27559880	tetracycline	1.54040662227532	0.001	2	1540.40662227532	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr8:27559719-27559880	apomorphine	1.521419072505	0.001	2	1521.419072505	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr8:2774023-2774367	ranitidine	1.70265355562075	0.001	2	1702.65355562075	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr8:2774023-2774367	hycanthone	1.63427853378718	0.001	2	1634.27853378718	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr8:2774023-2774367	ivermectin	1.61765109635151	0.001	2	1617.65109635151	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr8:2774023-2774367	isoniazid	1.61506316595008	0.001	2	1615.06316595008	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr8:2774023-2774367	dexamethasone	1.58901510649731	0.001	2	1589.01510649731	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr8:29526859-29527039	rosiglitazone	1.77160730484079	0.001	2	1771.60730484079	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr8:29526859-29527039	oxolinic acid	1.58500342883961	0.012	4	132.083619069967	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr8:29526859-29527039	captopril	1.55226432078012	0.02	3	77.613216039006	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr8:29526859-29527039	nicergoline	1.54476920693384	0.022	4	70.2167821333564	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr8:29526859-29527039	tranylcypromine	1.81123878610376	0.032	4	56.6012120657425	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr8:29948448-29949236	terguride	1.68190041576447	0.09	4	18.687782397383	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr8:29948448-29949236	nitrendipine	1.53600809247776	0.094	4	16.3405116221038	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr8:30237954-30238310	spiperone	1.94071586671438	0.001	2	1940.71586671438	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr8:30237954-30238310	trichostatin a	1.75798118649219	0.001	2	1757.98118649219	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr8:30237954-30238310	8-azaguanine	1.75094829670868	0.001	2	1750.94829670868	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr8:30237954-30238310	mefloquine	1.72744224994565	0.001	2	1727.44224994565	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr8:30237954-30238310	oxymetazoline	1.71456825236996	0.001	2	1714.56825236996	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr8:30435369-30435466	methotrexate	1.39834717436371	0.001	2	1398.34717436371	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr8:30435369-30435466	fenoterol	1.92545040804219	0.004	3	481.362602010547	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr8:30435369-30435466	cantharidin	1.70367127113027	0.014	3	121.690805080734	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr8:30435369-30435466	novobiocin	1.58507392294771	0.014	3	113.219565924836	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr8:30435369-30435466	arecoline	1.82748228248508	0.018	3	101.526793471393	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr8:38757431-38758061	thalidomide	1.79168376264364	0.001	2	1791.68376264364	Promotion	Non_mutation	Hypermethylation	Amp	Downregulated
+chr8:38757431-38758061	mefloquine	1.78954469958761	0.001	2	1789.54469958761	Promotion	Non_mutation	Hypermethylation	Amp	Downregulated
+chr8:38757431-38758061	pentoxifylline	1.70108825334848	0.001	2	1701.08825334848	Promotion	Non_mutation	Hypermethylation	Amp	Downregulated
+chr8:38757431-38758061	dexamethasone	1.67998108037883	0.001	2	1679.98108037883	Promotion	Non_mutation	Hypermethylation	Amp	Downregulated
+chr8:38757431-38758061	ranitidine	1.64449608416428	0.001	2	1644.49608416428	Promotion	Non_mutation	Hypermethylation	Amp	Downregulated
+chr8:6721983-6722491	dexamethasone	1.84979977996293	0.001	2	1849.79977996293	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr8:6721983-6722491	ebselen	1.74443206225132	0.001	2	1744.43206225132	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr8:6721983-6722491	tetracycline	1.74131448856099	0.001	2	1741.31448856099	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr8:6721983-6722491	nomifensine	1.70576216928138	0.001	2	1705.76216928138	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr8:6721983-6722491	pentoxifylline	1.70125493786647	0.001	2	1701.25493786647	Promotion	Non_mutation	Non_methylation	Del	Downregulated
+chr8:6725876-6726138	spiperone	2.1039206637627	0.001	2	2103.9206637627	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr8:6725876-6726138	disulfiram	1.97246443813235	0.001	2	1972.46443813235	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr8:6725876-6726138	tolfenamic acid	1.9433196783533	0.001	2	1943.3196783533	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr8:6725876-6726138	etodolac	1.9041681935062	0.001	2	1904.1681935062	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr8:6725876-6726138	pindolol	1.83627411176604	0.001	2	1836.27411176604	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr8:97350195-97350563	hesperidin	1.94261212986042	0.001	2	1942.61212986042	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr8:97350195-97350563	trichostatin a	1.76565645318393	0.001	2	1765.65645318393	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr8:97350195-97350563	fisetin	1.69573724632245	0.001	2	1695.73724632245	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr8:97350195-97350563	dequalinium chloride	1.60656011117727	0.001	2	1606.56011117727	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr8:97350195-97350563	nitrendipine	1.60288568621137	0.001	2	1602.88568621137	Promotion	Non_mutation	Hypermethylation	Non_CNV	Downregulated
+chr9:14992180-14992514	spiperone	2.07908287669138	0.001	2	2079.08287669138	Promotion	Non_mutation	Hypomethylation	Del	Downregulated
+chr9:14992180-14992514	thalidomide	1.72939460003287	0.001	2	1729.39460003287	Promotion	Non_mutation	Hypomethylation	Del	Downregulated
+chr9:14992180-14992514	tolfenamic acid	1.69510673061561	0.001	2	1695.10673061561	Promotion	Non_mutation	Hypomethylation	Del	Downregulated
+chr9:14992180-14992514	chloramphenicol	1.68901201548262	0.001	2	1689.01201548262	Promotion	Non_mutation	Hypomethylation	Del	Downregulated
+chr9:14992180-14992514	trichostatin a	1.68022804306957	0.001	2	1680.22804306957	Promotion	Non_mutation	Hypomethylation	Del	Downregulated
+chr9:2490043-2490145	methoxamine	1.32705341885282	0.001	4	1327.05341885282	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr9:2490043-2490145	carteolol	1.32521256634559	0.001	4	1325.21256634559	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr9:2490043-2490145	tenoxicam	1.32464252359209	0.001	4	1324.64252359209	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr9:2490043-2490145	trimethadione	1.32335154892181	0.001	4	1323.35154892181	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr9:2490043-2490145	ciclopirox	1.32255782860463	0.001	4	1322.55782860463	Promotion	Non_mutation	Hypermethylation	Del	Downregulated
+chr10:179287-179666	arcaine	-1.42786887148012	0.002	4	-713.93443574006	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr10:179287-179666	digoxigenin	-1.42286769517262	0.008	4	-177.858461896577	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr10:179287-179666	sulfamethoxazole	-1.39454621997153	0.01	4	-139.454621997153	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr10:179287-179666	zoxazolamine	-1.47733038592883	0.012	4	-123.110865494069	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr10:179287-179666	betulinic acid	-1.43139651225184	0.014	4	-102.242608017989	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr10:3797195-3797502	wortmannin	-1.92507141646042	0.001	2	-1925.07141646042	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:3797195-3797502	fulvestrant	-1.67797802598812	0.001	2	-1677.97802598812	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:3797195-3797502	tacrolimus	-1.60986531663185	0.001	2	-1609.86531663185	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:3797195-3797502	carbamazepine	-1.48743833438584	0.001	2	-1487.43833438584	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:3797195-3797502	esculin	-1.47066419663246	0.001	3	-1470.66419663246	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:3848037-3849536	wortmannin	-2.1081865855227	0.001	2	-2108.1865855227	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:3848037-3849536	tretinoin	-1.95668275584053	0.001	2	-1956.68275584053	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:3848037-3849536	valproic acid	-1.82526362403446	0.001	2	-1825.26362403446	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:3848037-3849536	risperidone	-1.82131041231327	0.001	2	-1821.31041231327	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:3848037-3849536	rottlerin	-1.8091831086002	0.001	2	-1809.1831086002	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:3850308-3850795	wortmannin	-2.19468708145042	0.001	2	-2194.68708145042	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:3850308-3850795	tretinoin	-1.96068137986049	0.001	2	-1960.68137986049	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:3850308-3850795	valproic acid	-1.88535864977221	0.001	2	-1885.35864977221	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:3850308-3850795	risperidone	-1.87294708644109	0.001	2	-1872.94708644109	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:3850308-3850795	ionomycin	-1.79538153953271	0.001	2	-1795.38153953271	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:3852273-3852886	wortmannin	-2.11133179914933	0.001	2	-2111.33179914933	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:3852273-3852886	tretinoin	-1.92460426662263	0.001	2	-1924.60426662263	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:3852273-3852886	valproic acid	-1.91289248384046	0.001	2	-1912.89248384046	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:3852273-3852886	ionomycin	-1.8198081467044	0.001	2	-1819.8081467044	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:3852273-3852886	geldanamycin	-1.77409493945835	0.001	2	-1774.09493945835	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:5504427-5504665	tolbutamide	-1.32895672502906	0.002	4	-664.47836251453	Inhibition	Non_mutation	Hypermethylation	Amp	Upregulated
+chr10:5504427-5504665	levobunolol	-1.32176996421433	0.002	4	-660.884982107165	Inhibition	Non_mutation	Hypermethylation	Amp	Upregulated
+chr10:5504427-5504665	suprofen	-1.33248326316772	0.006	4	-222.080543861287	Inhibition	Non_mutation	Hypermethylation	Amp	Upregulated
+chr10:5504427-5504665	benzamil	-1.32484646222659	0.006	4	-220.807743704432	Inhibition	Non_mutation	Hypermethylation	Amp	Upregulated
+chr10:5504427-5504665	phenformin	-1.32238425699721	0.006	4	-220.397376166202	Inhibition	Non_mutation	Hypermethylation	Amp	Upregulated
+chr10:5528772-5529321	oxybenzone	-1.61761668499954	0.001	2	-1617.61668499954	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:5528772-5529321	nafcillin	-1.34210040509175	0.004	3	-335.525101272937	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:5528772-5529321	beclometasone	-1.46491481835116	0.006	3	-244.152469725193	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:5528772-5529321	enilconazole	-1.44644264339276	0.008	3	-180.805330424095	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:5528772-5529321	mafenide	-1.93326141603984	0.012	3	-161.10511800332	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:5530637-5531333	vigabatrin	-2.02288673040371	0.001	2	-2022.88673040371	Inhibition	Non_mutation	Hypomethylation	Amp	Upregulated
+chr10:5530637-5531333	ebselen	-1.76956945064801	0.001	2	-1769.56945064801	Inhibition	Non_mutation	Hypomethylation	Amp	Upregulated
+chr10:5530637-5531333	oxybenzone	-1.59192180323099	0.001	2	-1591.92180323099	Inhibition	Non_mutation	Hypomethylation	Amp	Upregulated
+chr10:5530637-5531333	kaempferol	-1.56000303479153	0.001	2	-1560.00303479153	Inhibition	Non_mutation	Hypomethylation	Amp	Upregulated
+chr10:5530637-5531333	apigenin	-1.43113934355851	0.001	2	-1431.13934355851	Inhibition	Non_mutation	Hypomethylation	Amp	Upregulated
+chr10:5535635-5536039	vigabatrin	-2.05659842546028	0.001	2	-2056.59842546028	Inhibition	Non_mutation	Hypomethylation	Amp	Upregulated
+chr10:5535635-5536039	oxybenzone	-1.70774048378887	0.001	2	-1707.74048378887	Inhibition	Non_mutation	Hypomethylation	Amp	Upregulated
+chr10:5535635-5536039	tolazamide	-1.49229700973628	0.001	2	-1492.29700973628	Inhibition	Non_mutation	Hypomethylation	Amp	Upregulated
+chr10:5535635-5536039	scopoletin	-1.38257064007841	0.001	2	-1382.57064007841	Inhibition	Non_mutation	Hypomethylation	Amp	Upregulated
+chr10:5535635-5536039	nafcillin	-1.58697714011775	0.006	3	-264.496190019625	Inhibition	Non_mutation	Hypomethylation	Amp	Upregulated
+chr10:5587810-5588190	clotrimazole	-1.4994173578186	0.006	3	-249.902892969767	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:5587810-5588190	cefazolin	-1.40469141561592	0.08	4	-17.558642695199	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:5587810-5588190	atropine	-1.50481280478653	0.192	4	-7.83756669159651	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:5587810-5588190	trimetazidine	-1.42305299441674	0.768	5	-1.85293358648013	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:5587810-5588190	hydroquinine	-1.49739137541088	NA	NA	-1.49739137541088	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:5588881-5589169	ethosuximide	-1.72866286331951	0.074	4	-23.3603089637772	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:5590010-5590295	apigenin	-1.70577079968189	0.001	3	-1705.77079968189	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:5590010-5590295	fisetin	-1.60507627850341	0.001	3	-1605.07627850341	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:5590010-5590295	iproniazid	-1.594151580336	0.001	3	-1594.151580336	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:5590010-5590295	niclosamide	-1.69754461910704	0.002	3	-848.77230955352	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:5590010-5590295	tolfenamic acid	-1.61742238079742	0.002	3	-808.71119039871	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:5590959-5591270	irinotecan	-1.69769631023337	0.004	3	-424.424077558343	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:5590959-5591270	ethosuximide	-1.7169374484336	0.122	4	-14.0732577740459	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:5590959-5591270	spiperone	-1.79152551733165	0.338	4	-5.30037135305222	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:5590959-5591270	1,4-chrysenequinone	-1.91255466356155	NA	NA	-1.91255466356155	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:5590959-5591270	cinchonidine	-1.80324912187607	NA	NA	-1.80324912187607	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:5593718-5593999	cefotetan	-1.58309892650023	0.008	3	-197.887365812529	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:5593718-5593999	naftopidil	-1.77766657567804	0.014	3	-126.976183977003	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:5593718-5593999	ursodeoxycholic acid	-1.62908039252405	0.022	3	-74.0491087510932	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:5593718-5593999	ticarcillin	-1.88014777374518	0.136	4	-13.8246159834204	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:5593718-5593999	sulmazole	-1.62539899216363	0.124	4	-13.1080563884164	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:5638863-5639270	valproic acid	-1.69554317217697	0.001	2	-1695.54317217697	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr10:5638863-5639270	geldanamycin	-1.55889146113824	0.001	2	-1558.89146113824	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr10:5638863-5639270	betulin	-1.4858327228213	0.001	3	-1485.8327228213	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr10:5638863-5639270	carbenoxolone	-1.48187478310458	0.001	2	-1481.87478310458	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr10:5638863-5639270	esculin	-1.69650331959902	0.004	3	-424.125829899755	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr10:8088862-8088888	fulvestrant	-1.62125433178694	0.001	2	-1621.25433178694	Inhibition	Non_mutation	Hypermethylation	Amp	Upregulated
+chr10:8088862-8088888	oxolinic acid	-1.83988027516867	0.008	3	-229.985034396084	Inhibition	Non_mutation	Hypermethylation	Amp	Upregulated
+chr10:8088862-8088888	mafenide	-1.84369462108409	0.01	3	-184.369462108409	Inhibition	Non_mutation	Hypermethylation	Amp	Upregulated
+chr10:8088862-8088888	articaine	-1.60634983033825	0.01	3	-160.634983033825	Inhibition	Non_mutation	Hypermethylation	Amp	Upregulated
+chr10:8088862-8088888	hydrastinine	-1.56365708774739	0.01	3	-156.365708774739	Inhibition	Non_mutation	Hypermethylation	Amp	Upregulated
+chr10:8089680-8090146	vigabatrin	-1.99770851391012	0.001	2	-1997.70851391012	Inhibition	Non_mutation	Hypermethylation	Amp	Upregulated
+chr10:8089680-8090146	oxybenzone	-1.70747409567918	0.001	2	-1707.47409567918	Inhibition	Non_mutation	Hypermethylation	Amp	Upregulated
+chr10:8089680-8090146	naftopidil	-1.58297449978019	0.001	2	-1582.97449978019	Inhibition	Non_mutation	Hypermethylation	Amp	Upregulated
+chr10:8089680-8090146	tolazamide	-1.53019107810987	0.001	2	-1530.19107810987	Inhibition	Non_mutation	Hypermethylation	Amp	Upregulated
+chr10:8089680-8090146	kaempferol	-1.47636429844278	0.001	2	-1476.36429844278	Inhibition	Non_mutation	Hypermethylation	Amp	Upregulated
+chr10:8090455-8090655	vigabatrin	-1.97408913561101	0.001	2	-1974.08913561101	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:8090455-8090655	oxybenzone	-1.69232851957322	0.001	2	-1692.32851957322	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:8090455-8090655	naftopidil	-1.60033529315764	0.001	2	-1600.33529315764	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:8090455-8090655	kaempferol	-1.56999122113648	0.001	2	-1569.99122113648	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:8090455-8090655	tolazamide	-1.50481301119424	0.001	2	-1504.81301119424	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:8903701-8904023	vigabatrin	-2.10018812075531	0.001	2	-2100.18812075531	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:8903701-8904023	oxybenzone	-1.6235809547289	0.001	2	-1623.5809547289	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:8903701-8904023	kaempferol	-1.60953429373423	0.001	2	-1609.53429373423	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:8903701-8904023	amphotericin b	-1.55033212364186	0.001	2	-1550.33212364186	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:8903701-8904023	tolazamide	-1.53359990571029	0.001	2	-1533.59990571029	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:8907472-8907746	vigabatrin	-2.07771906931118	0.001	2	-2077.71906931118	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:8907472-8907746	oxybenzone	-1.57973793151146	0.001	2	-1579.73793151146	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:8907472-8907746	tolazamide	-1.54541092028602	0.001	2	-1545.41092028602	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:8907472-8907746	kaempferol	-1.52938554760438	0.001	2	-1529.38554760438	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:8907472-8907746	naftopidil	-1.4481860501731	0.001	2	-1448.1860501731	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:9013579-9013972	vigabatrin	-2.03226711344513	0.001	2	-2032.26711344513	Inhibition	Non_mutation	Hypomethylation	Amp	Upregulated
+chr10:9013579-9013972	oxybenzone	-1.52779316775294	0.001	2	-1527.79316775294	Inhibition	Non_mutation	Hypomethylation	Amp	Upregulated
+chr10:9013579-9013972	tolazamide	-1.50007585515878	0.001	2	-1500.07585515878	Inhibition	Non_mutation	Hypomethylation	Amp	Upregulated
+chr10:9013579-9013972	myricetin	-1.34940521583309	0.001	2	-1349.40521583309	Inhibition	Non_mutation	Hypomethylation	Amp	Upregulated
+chr10:9013579-9013972	naftopidil	-1.33452099978935	0.001	2	-1334.52099978935	Inhibition	Non_mutation	Hypomethylation	Amp	Upregulated
+chr10:9017648-9017767	vigabatrin	-2.111749752189	0.001	2	-2111.749752189	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:9017648-9017767	lysergol	-1.7869764898001	0.001	2	-1786.9764898001	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:9017648-9017767	oxybenzone	-1.70444503278604	0.001	2	-1704.44503278604	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:9017648-9017767	tolazamide	-1.5717558599314	0.001	2	-1571.7558599314	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:9017648-9017767	myricetin	-1.39594980496585	0.001	2	-1395.94980496585	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:9042425-9042760	vigabatrin	-1.92962917516243	0.001	2	-1929.62917516243	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:9042425-9042760	myricetin	-1.5677244491948	0.001	2	-1567.7244491948	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:9042425-9042760	oxybenzone	-1.50795485540707	0.001	2	-1507.95485540707	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:9042425-9042760	tolazamide	-1.48816314680033	0.001	2	-1488.16314680033	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:9042425-9042760	melatonin	-1.4158953863361	0.001	2	-1415.8953863361	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:9057533-9057704	coralyne	-1.76616467362304	0.008	3	-220.77058420288	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:9057533-9057704	pheniramine	-2.25646777993551	0.02	3	-112.823388996776	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:9057533-9057704	cantharidin	-1.65304213411242	0.024	3	-68.8767555880175	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:9057533-9057704	fusaric acid	-1.60591931523579	0.024	3	-66.9133048014913	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:9057533-9057704	hesperetin	-2.25212595359882	0.048	3	-46.9192906999754	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:9076423-9076646	vigabatrin	-1.99891723951334	0.001	2	-1998.91723951334	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:9076423-9076646	oxybenzone	-1.52688593573695	0.001	2	-1526.88593573695	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:9076423-9076646	piperine	-1.507988069245	0.001	2	-1507.988069245	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:9076423-9076646	tolazamide	-1.49373191733337	0.001	2	-1493.73191733337	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:9076423-9076646	apigenin	-1.44698386177769	0.001	2	-1446.98386177769	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:9115735-9116358	isoniazid	-1.76072208484625	0.001	2	-1760.72208484625	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:9115735-9116358	chlorogenic acid	-1.6650608340425	0.006	3	-277.510139007083	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:9115735-9116358	hydrastinine	-1.75313215075256	0.008	3	-219.14151884407	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:9115735-9116358	sulmazole	-1.84294854046182	0.016	3	-115.184283778864	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:9115735-9116358	pheniramine	-1.78188468373835	0.026	3	-68.5340262976288	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:9228708-9229315	ethosuximide	-1.69575783638082	0.001	2	-1695.75783638082	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:9228708-9229315	isoniazid	-1.59133078820064	0.001	2	-1591.33078820064	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:9228708-9229315	oxybenzone	-1.54641857285549	0.001	2	-1546.41857285549	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:9228708-9229315	ethambutol	-1.40000074023232	0.001	2	-1400.00074023232	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr10:9228708-9229315	nafcillin	-1.54129400037413	0.006	3	-256.882333395688	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr1:1173386-1173736	vigabatrin	-1.769877831582	0.001	2	-1769.877831582	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr1:1173386-1173736	oxybenzone	-1.60849026012188	0.001	2	-1608.49026012188	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr1:1173386-1173736	tolazamide	-1.52746338665003	0.001	2	-1527.46338665003	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr1:1173386-1173736	nimodipine	-1.44960443795232	0.001	2	-1449.60443795232	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr1:1173386-1173736	myricetin	-1.40143769572055	0.001	2	-1401.43769572055	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr11:2286743-2287171	minoxidil	-1.33715641219003	0.001	4	-1337.15641219003	Inhibition	Non_mutation	Hypomethylation	Del	Upregulated
+chr11:2286743-2287171	etoposide	-1.3366445338901	0.001	4	-1336.6445338901	Inhibition	Non_mutation	Hypomethylation	Del	Upregulated
+chr11:2286743-2287171	amoxapine	-1.33662248354684	0.001	4	-1336.62248354684	Inhibition	Non_mutation	Hypomethylation	Del	Upregulated
+chr11:2286743-2287171	arcaine	-1.33291562341666	0.001	4	-1332.91562341666	Inhibition	Non_mutation	Hypomethylation	Del	Upregulated
+chr11:2286743-2287171	berberine	-1.33267868738037	0.001	4	-1332.67868738037	Inhibition	Non_mutation	Hypomethylation	Del	Upregulated
+chr11:45000515-45000921	scopoletin	-1.59933205428703	0.052	4	-30.756385659366	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr11:45000515-45000921	dexamethasone	-1.77440127735006	0.124	3	-14.309687720565	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr11:45000515-45000921	oxamniquine	-1.65913840633272	NA	NA	-1.65913840633272	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr11:45000515-45000921	carbarsone	-1.6468773699195	NA	NA	-1.6468773699195	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr11:45000515-45000921	arachidonyltrifluoromethane	-1.63379432733832	NA	NA	-1.63379432733832	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr1:233809261-233809638	depudecin	-1.64739995873682	0.001	3	-1647.39995873682	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr1:233809261-233809638	albendazole	-1.85788413793699	0.002	3	-928.942068968495	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr1:233809261-233809638	lisinopril	-1.77441641169206	0.002	3	-887.20820584603	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr1:233809261-233809638	clemastine	-1.6876930326833	0.002	3	-843.84651634165	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr1:233809261-233809638	celastrol	-1.51688379321793	0.002	3	-758.441896608965	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr1:233811305-233811449	ethosuximide	-1.58818612227948	0.026	4	-61.0840816261338	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr1:233811305-233811449	baclofen	-1.60026494605439	0.06	4	-26.6710824342398	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr1:235010375-235010572	acebutolol	-1.79025900310452	0.001	3	-1790.25900310452	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr1:235010375-235010572	mafenide	-1.76722936142484	0.002	3	-883.61468071242	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr1:235010375-235010572	levobunolol	-1.62441147653714	0.006	3	-270.735246089523	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr1:235010375-235010572	cefoperazone	-2.42604970472639	0.016	3	-151.628106545399	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr1:235010375-235010572	nadolol	-1.65459360974804	0.016	3	-103.412100609253	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr1:242108255-242108348	decitabine	-1.48589480823806	0.012	3	-123.824567353172	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr1:242108255-242108348	gw-8510	-1.64131687583356	NA	NA	-1.64131687583356	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr1:242108255-242108348	5213008	-1.44336523913972	NA	NA	-1.44336523913972	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr1:242108255-242108348	5186324	-1.41504998585917	NA	NA	-1.41504998585917	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr12:53445016-53445392	vigabatrin	-1.86970733777546	0.001	2	-1869.70733777546	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr12:53445016-53445392	chloramphenicol	-1.76061952052272	0.001	2	-1760.61952052272	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr12:53445016-53445392	oxybenzone	-1.7517569678671	0.001	2	-1751.7569678671	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr12:53445016-53445392	coralyne	-1.72096552358959	0.001	2	-1720.96552358959	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr12:53445016-53445392	ebselen	-1.6988297915271	0.001	2	-1698.8297915271	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr14:105154013-105154712	coralyne	-1.59869644210959	0.022	4	-72.6680200958905	Inhibition	Non_mutation	Hypomethylation	Del	Upregulated
+chr14:105154013-105154712	estropipate	-1.45616948453812	0.04	4	-36.404237113453	Inhibition	Non_mutation	Hypomethylation	Del	Upregulated
+chr14:105154013-105154712	n-acetyl-l-aspartic acid	-1.63005238649384	NA	NA	-1.63005238649384	Inhibition	Non_mutation	Hypomethylation	Del	Upregulated
+chr14:105154013-105154712	ellipticine	-1.60871062931015	NA	NA	-1.60871062931015	Inhibition	Non_mutation	Hypomethylation	Del	Upregulated
+chr14:105154013-105154712	ginkgolide a	-1.60844523935406	NA	NA	-1.60844523935406	Inhibition	Non_mutation	Hypomethylation	Del	Upregulated
+chr14:35821559-35821658	vigabatrin	-2.1826445397383	0.001	2	-2182.6445397383	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr14:35821559-35821658	oxybenzone	-1.66900432745053	0.001	2	-1669.00432745053	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr14:35821559-35821658	tolazamide	-1.65877374234818	0.001	2	-1658.77374234818	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr14:35821559-35821658	ethosuximide	-1.57356353354173	0.001	2	-1573.56353354173	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr14:35821559-35821658	kaempferol	-1.48522568139012	0.001	2	-1485.22568139012	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr14:95060330-95060702	etacrynic acid	-1.31438130679708	0.004	4	-328.59532669927	Inhibition	Non_mutation	Hypomethylation	Del	Upregulated
+chr14:95060330-95060702	cefoperazone	-1.31716376575751	0.006	4	-219.527294292918	Inhibition	Non_mutation	Hypomethylation	Del	Upregulated
+chr14:95060330-95060702	menadione	-1.33259369618368	0.038	4	-35.0682551627284	Inhibition	Non_mutation	Hypomethylation	Del	Upregulated
+chr14:95060330-95060702	nipecotic acid	-1.3267091962464	0.25	5	-5.3068367849856	Inhibition	Non_mutation	Hypomethylation	Del	Upregulated
+chr14:95060330-95060702	aminocaproic acid	-1.32153602929312	0.556	5	-2.37686336203799	Inhibition	Non_mutation	Hypomethylation	Del	Upregulated
+chr16:1341001-1341384	vigabatrin	-1.97358377913819	0.001	2	-1973.58377913819	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr16:1341001-1341384	oxybenzone	-1.75961842474737	0.001	2	-1759.61842474737	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr16:1341001-1341384	tolazamide	-1.58028344169089	0.001	2	-1580.28344169089	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr16:1341001-1341384	kaempferol	-1.56746309170665	0.001	2	-1567.46309170665	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr16:1341001-1341384	amphotericin b	-1.50889523509655	0.001	2	-1508.89523509655	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr16:87981759-87982021	cefoperazone	-1.45639574387902	0.096	4	-15.1707889987398	Inhibition	Non_mutation	Hypomethylation	Del	Upregulated
+chr16:87981759-87982021	amiloride	-1.49532860782044	0.226	4	-6.61649826469221	Inhibition	Non_mutation	Hypomethylation	Del	Upregulated
+chr16:87981759-87982021	perphenazine	-1.5135662903349	0.234	4	-6.46823200997821	Inhibition	Non_mutation	Hypomethylation	Del	Upregulated
+chr16:87981759-87982021	zimeldine	-1.5155462995074	0.408	5	-3.71457426349853	Inhibition	Non_mutation	Hypomethylation	Del	Upregulated
+chr16:87981759-87982021	mefloquine	-1.47143663243643	0.786	5	-1.87205678427027	Inhibition	Non_mutation	Hypomethylation	Del	Upregulated
+chr16:88299166-88299470	valproic acid	-1.83115874299151	0.001	2	-1831.15874299151	Inhibition	Non_mutation	Hypomethylation	Del	Upregulated
+chr16:88299166-88299470	geldanamycin	-1.76813287386329	0.001	2	-1768.13287386329	Inhibition	Non_mutation	Hypomethylation	Del	Upregulated
+chr16:88299166-88299470	carbenoxolone	-1.4106153498913	0.001	2	-1410.6153498913	Inhibition	Non_mutation	Hypomethylation	Del	Upregulated
+chr16:88299166-88299470	terconazole	-1.4105874343545	0.004	3	-352.646858588625	Inhibition	Non_mutation	Hypomethylation	Del	Upregulated
+chr16:88299166-88299470	diflorasone	-1.52413914677476	0.006	3	-254.023191129127	Inhibition	Non_mutation	Hypomethylation	Del	Upregulated
+chr19:823657-823956	vigabatrin	-1.92727087976861	0.001	2	-1927.27087976861	Inhibition	Non_mutation	Hypomethylation	Del	Upregulated
+chr19:823657-823956	oxybenzone	-1.64766732388794	0.001	2	-1647.66732388794	Inhibition	Non_mutation	Hypomethylation	Del	Upregulated
+chr19:823657-823956	tolazamide	-1.64644322320068	0.001	2	-1646.44322320068	Inhibition	Non_mutation	Hypomethylation	Del	Upregulated
+chr19:823657-823956	nimodipine	-1.49696778857235	0.001	2	-1496.96778857235	Inhibition	Non_mutation	Hypomethylation	Del	Upregulated
+chr19:823657-823956	kaempferol	-1.4811817490705	0.001	2	-1481.1817490705	Inhibition	Non_mutation	Hypomethylation	Del	Upregulated
+chr20:20188538-20188860	daunorubicin	-1.90472183445554	0.001	2	-1904.72183445554	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr20:20188538-20188860	methotrexate	-1.7120353602152	0.001	2	-1712.0353602152	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr20:20188538-20188860	astemizole	-1.64174797127448	0.001	2	-1641.74797127448	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr20:20188538-20188860	mafenide	-1.6483921471914	0.006	3	-274.7320245319	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr20:20188538-20188860	oxolinic acid	-1.49605207687419	0.006	3	-249.342012812365	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr20:46700957-46701130	ionomycin	-1.81594421579751	0.001	2	-1815.94421579751	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr20:46700957-46701130	geldanamycin	-1.69481197331641	0.001	2	-1694.81197331641	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr20:46700957-46701130	carbenoxolone	-1.3684501689597	0.001	2	-1368.4501689597	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr20:46700957-46701130	depudecin	-1.62589003389262	0.006	3	-270.981672315437	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr20:46700957-46701130	diflorasone	-1.58871419232596	0.012	3	-132.392849360497	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr20:49346260-49347200	vigabatrin	-1.93700871217528	0.001	2	-1937.00871217528	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr20:49346260-49347200	oxybenzone	-1.79308240376443	0.001	2	-1793.08240376443	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr20:49346260-49347200	nimodipine	-1.62406137041225	0.001	2	-1624.06137041225	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr20:49346260-49347200	kaempferol	-1.58098381368204	0.001	2	-1580.98381368204	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr20:49346260-49347200	tolazamide	-1.574313473677	0.001	2	-1574.313473677	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr20:56291330-56291601	betulin	-1.41764164657101	0.001	3	-1417.64164657101	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr20:56291330-56291601	clemastine	-1.47238636685442	0.004	3	-368.096591713605	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr20:56291330-56291601	albendazole	-1.63207619271273	0.008	3	-204.009524089091	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr20:56291330-56291601	trazodone	-1.53889424679995	0.008	3	-192.361780849994	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr20:56291330-56291601	tetracaine	-1.46746028604636	0.016	3	-91.7162678778975	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr20:56592800-56593208	mexiletine	-1.33650085012507	0.001	4	-1336.50085012507	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr20:56592800-56593208	tetrandrine	-1.33568866464346	0.001	4	-1335.68866464346	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr20:56592800-56593208	fenoterol	-1.32523750709355	0.001	4	-1325.23750709355	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr20:56592800-56593208	cetirizine	-1.33539298478258	0.002	4	-667.69649239129	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr20:56592800-56593208	scopolamine	-1.32973204385173	0.002	4	-664.866021925865	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr20:60943690-60943839	sodium phenylbutyrate	-1.89591883614145	0.001	3	-1895.91883614145	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr20:60943690-60943839	cefotetan	-1.69758404396022	0.001	3	-1697.58404396022	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr20:60943690-60943839	tolfenamic acid	-1.78723899454767	0.002	3	-893.619497273835	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr20:60943690-60943839	acetohexamide	-1.66143085020146	0.086	4	-19.3189633744356	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr20:60943690-60943839	timolol	-1.46481582467913	0.078	4	-18.7796900599888	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr20:60944265-60944566	cantharidin	-1.6604844782373	0.002	3	-830.24223911865	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr20:60944265-60944566	chloramphenicol	-1.80259392142199	0.008	3	-225.324240177749	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr20:60944265-60944566	cefotetan	-1.70809800854543	0.008	3	-213.512251068179	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr20:60944265-60944566	fusaric acid	-1.62403096472321	0.008	3	-203.003870590401	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr20:60944265-60944566	naftopidil	-1.51412521505534	0.008	3	-189.265651881917	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr20:61192605-61193059	betulinic acid	-1.55445235186637	0.018	3	-86.3584639925761	Inhibition	Non_mutation	Hypermethylation	Amp	Upregulated
+chr20:61192605-61193059	ursodeoxycholic acid	-1.79713166170538	0.038	3	-47.2929384659311	Inhibition	Non_mutation	Hypermethylation	Amp	Upregulated
+chr20:61192605-61193059	propylthiouracil	-1.45187242892234	0.032	3	-45.3710134038231	Inhibition	Non_mutation	Hypermethylation	Amp	Upregulated
+chr20:61192605-61193059	amoxicillin	-1.57967403368346	0.038	3	-41.5703693074595	Inhibition	Non_mutation	Hypermethylation	Amp	Upregulated
+chr20:61192605-61193059	harpagoside	-1.50690980480321	0.046	4	-32.7589088000698	Inhibition	Non_mutation	Hypermethylation	Amp	Upregulated
+chr20:62170184-62170345	vigabatrin	-2.10660295625143	0.001	2	-2106.60295625143	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr20:62170184-62170345	cantharidin	-2.0920156448806	0.001	2	-2092.0156448806	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr20:62170184-62170345	oxybenzone	-1.8529247885665	0.001	2	-1852.9247885665	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr20:62170184-62170345	tolazamide	-1.64393970471395	0.001	2	-1643.93970471395	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr20:62170184-62170345	memantine	-1.63143724105047	0.001	2	-1631.43724105047	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr21:46786853-46787266	wortmannin	-2.09616917292224	0.001	2	-2096.16917292224	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr21:46786853-46787266	risperidone	-1.81587479012356	0.001	2	-1815.87479012356	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr21:46786853-46787266	ionomycin	-1.72642174446925	0.001	2	-1726.42174446925	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr21:46786853-46787266	haloperidol	-1.70577654352357	0.001	2	-1705.77654352357	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr21:46786853-46787266	rottlerin	-1.69937952598276	0.001	2	-1699.37952598276	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr3:141174545-141175038	vigabatrin	-1.99858022891475	0.001	2	-1998.58022891475	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr3:141174545-141175038	apigenin	-1.74617890221565	0.001	2	-1746.17890221565	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr3:141174545-141175038	tolazamide	-1.68829295399853	0.001	2	-1688.29295399853	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr3:141174545-141175038	melatonin	-1.47312818366315	0.001	2	-1473.12818366315	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr3:141174545-141175038	oxybenzone	-1.44225048291708	0.001	2	-1442.25048291708	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr3:150457276-150457594	vigabatrin	-1.88175306712935	0.001	2	-1881.75306712935	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr3:150457276-150457594	oxybenzone	-1.66968621318015	0.001	2	-1669.68621318015	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr3:150457276-150457594	nimodipine	-1.51169691244496	0.001	2	-1511.69691244496	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr3:150457276-150457594	gliquidone	-1.48334020089403	0.001	2	-1483.34020089403	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr3:150457276-150457594	tolazamide	-1.44597152346981	0.001	2	-1445.97152346981	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr3:193858651-193858843	oxolinic acid	-2.19118400346345	0.001	3	-2191.18400346345	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr3:193858651-193858843	cantharidin	-1.57537005333326	0.001	3	-1575.37005333326	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr3:193858651-193858843	cefotetan	-2.04197588105463	0.002	3	-1020.98794052732	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr3:193858651-193858843	chloramphenicol	-1.6378353480833	0.002	3	-818.91767404165	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr3:193858651-193858843	naftopidil	-1.48586220308561	0.002	3	-742.931101542805	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr4:3463022-3463837	vigabatrin	-1.99878616769035	0.001	2	-1998.78616769035	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr4:3463022-3463837	oxybenzone	-1.63719332530542	0.001	2	-1637.19332530542	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr4:3463022-3463837	tolazamide	-1.47560785354832	0.001	2	-1475.60785354832	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr4:3463022-3463837	articaine	-1.82411720943949	0.012	3	-152.009767453291	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr4:3463022-3463837	mafenide	-1.6541389957215	0.012	3	-137.844916310125	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr4:88480669-88480961	gentamicin	-1.61798596165319	0.001	2	-1617.98596165319	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr4:88480669-88480961	quinostatin	-1.509034688153	0.001	4	-1509.034688153	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr4:88480669-88480961	citalopram	-1.48227062257657	0.002	3	-741.135311288285	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr4:88480669-88480961	isoxsuprine	-1.74063560689958	0.004	4	-435.158901724895	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr4:88480669-88480961	picotamide	-1.74988872634796	0.008	4	-218.736090793495	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr5:1313264-1313453	vigabatrin	-2.18161235034389	0.001	2	-2181.61235034389	Inhibition	Non_mutation	Hypomethylation	Amp	Upregulated
+chr5:1313264-1313453	lysergol	-1.95251168622352	0.001	2	-1952.51168622352	Inhibition	Non_mutation	Hypomethylation	Amp	Upregulated
+chr5:1313264-1313453	oxybenzone	-1.72710190771285	0.001	2	-1727.10190771285	Inhibition	Non_mutation	Hypomethylation	Amp	Upregulated
+chr5:1313264-1313453	memantine	-1.70697092791185	0.001	2	-1706.97092791185	Inhibition	Non_mutation	Hypomethylation	Amp	Upregulated
+chr5:1313264-1313453	tolazamide	-1.61753547307561	0.001	2	-1617.53547307561	Inhibition	Non_mutation	Hypomethylation	Amp	Upregulated
+chr5:1315765-1316275	vigabatrin	-1.95659506110402	0.001	2	-1956.59506110402	Inhibition	Non_mutation	Hypomethylation	Amp	Upregulated
+chr5:1315765-1316275	lysergol	-1.69034563402141	0.001	2	-1690.34563402141	Inhibition	Non_mutation	Hypomethylation	Amp	Upregulated
+chr5:1315765-1316275	oxybenzone	-1.5554497797687	0.001	2	-1555.4497797687	Inhibition	Non_mutation	Hypomethylation	Amp	Upregulated
+chr5:1315765-1316275	tolazamide	-1.5227597168463	0.001	2	-1522.7597168463	Inhibition	Non_mutation	Hypomethylation	Amp	Upregulated
+chr5:1315765-1316275	kaempferol	-1.52003641716217	0.001	2	-1520.03641716217	Inhibition	Non_mutation	Hypomethylation	Amp	Upregulated
+chr5:1316464-1316882	chlorogenic acid	-1.71692229190371	0.004	3	-429.230572975927	Inhibition	Non_mutation	Hypomethylation	Amp	Upregulated
+chr5:1316464-1316882	sulmazole	-1.76740145808831	0.016	3	-110.462591130519	Inhibition	Non_mutation	Hypomethylation	Amp	Upregulated
+chr5:1316464-1316882	pheniramine	-1.86990596336369	0.02	3	-93.4952981681845	Inhibition	Non_mutation	Hypomethylation	Amp	Upregulated
+chr5:1316464-1316882	cantharidin	-1.81166829856653	0.024	3	-75.4861791069387	Inhibition	Non_mutation	Hypomethylation	Amp	Upregulated
+chr5:1316464-1316882	vinburnine	-1.80620700711343	0.034	3	-53.1237355033362	Inhibition	Non_mutation	Hypomethylation	Amp	Upregulated
+chr5:14142332-14142650	valproic acid	-1.56292173581609	0.001	2	-1562.92173581609	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr5:14142332-14142650	geldanamycin	-1.64236758302685	0.012	3	-136.863965252238	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr5:14142332-14142650	wortmannin	-1.63093182940968	0.028	3	-58.24756533606	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr5:14142332-14142650	genistein	-1.57558772482569	0.034	3	-46.3408154360497	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr5:14142332-14142650	haloperidol	-1.57339018717373	0.076	3	-20.7025024628122	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr5:964244-964536	risperidone	-1.90248331961076	0.001	2	-1902.48331961076	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr5:964244-964536	valproic acid	-1.70198348003909	0.001	2	-1701.98348003909	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr5:964244-964536	geldanamycin	-1.65394643612008	0.001	2	-1653.94643612008	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr5:964244-964536	gossypol	-1.63736529942872	0.001	2	-1637.36529942872	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr5:964244-964536	lisinopril	-1.63162858152586	0.001	2	-1631.62858152586	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr5:964858-965249	esculetin	-1.79530827783384	0.001	3	-1795.30827783384	Inhibition	Non_mutation	Hypermethylation	Amp	Upregulated
+chr5:964858-965249	valproic acid	-1.75454996664604	0.001	2	-1754.54996664604	Inhibition	Non_mutation	Hypermethylation	Amp	Upregulated
+chr5:964858-965249	esculin	-1.64766855979557	0.001	3	-1647.66855979557	Inhibition	Non_mutation	Hypermethylation	Amp	Upregulated
+chr5:964858-965249	alclometasone	-1.5532557542307	0.002	3	-776.62787711535	Inhibition	Non_mutation	Hypermethylation	Amp	Upregulated
+chr5:964858-965249	flurbiprofen	-1.54554353552189	0.002	3	-772.771767760945	Inhibition	Non_mutation	Hypermethylation	Amp	Upregulated
+chr6:138019778-138020625	betulin	-1.6740716030839	0.001	3	-1674.0716030839	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr6:138019778-138020625	risperidone	-1.64833356276121	0.001	2	-1648.33356276121	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr6:138019778-138020625	rottlerin	-1.60671387933582	0.001	2	-1606.71387933582	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr6:138019778-138020625	epiandrosterone	-1.64600573607611	0.002	3	-823.002868038055	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr6:138019778-138020625	verteporfin	-1.50380202420762	0.002	3	-751.90101210381	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr6:14910842-14911169	cefoperazone	-2.00180943530433	0.001	3	-2001.80943530433	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr6:14910842-14911169	spiperone	-1.87609193537747	0.001	3	-1876.09193537747	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr6:14910842-14911169	ampicillin	-1.77264368076704	0.001	3	-1772.64368076704	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr6:14910842-14911169	troleandomycin	-1.75559940986418	0.001	3	-1755.59940986418	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr6:14910842-14911169	scriptaid	-1.73935320387956	0.001	3	-1739.35320387956	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr6:168216462-168216639	etoposide	-2.38952604413967	0.001	2	-2389.52604413967	Inhibition	Non_mutation	Hypomethylation	Del	Upregulated
+chr6:168216462-168216639	resveratrol	-2.24625079611055	0.001	2	-2246.25079611055	Inhibition	Non_mutation	Hypomethylation	Del	Upregulated
+chr6:168216462-168216639	hycanthone	-1.82916105264662	0.001	2	-1829.16105264662	Inhibition	Non_mutation	Hypomethylation	Del	Upregulated
+chr6:168216462-168216639	irinotecan	-1.82435580178891	0.001	2	-1824.35580178891	Inhibition	Non_mutation	Hypomethylation	Del	Upregulated
+chr6:168216462-168216639	daunorubicin	-1.78176037025046	0.001	2	-1781.76037025046	Inhibition	Non_mutation	Hypomethylation	Del	Upregulated
+chr6:169556642-169556776	ionomycin	-1.90609145195827	0.001	2	-1906.09145195827	Inhibition	Non_mutation	Hypomethylation	Del	Upregulated
+chr6:169556642-169556776	wortmannin	-1.85117737330422	0.001	2	-1851.17737330422	Inhibition	Non_mutation	Hypomethylation	Del	Upregulated
+chr6:169556642-169556776	valproic acid	-1.82366154935634	0.001	2	-1823.66154935634	Inhibition	Non_mutation	Hypomethylation	Del	Upregulated
+chr6:169556642-169556776	haloperidol	-1.81183682161862	0.001	2	-1811.83682161862	Inhibition	Non_mutation	Hypomethylation	Del	Upregulated
+chr6:169556642-169556776	celecoxib	-1.7057318177277	0.001	2	-1705.7318177277	Inhibition	Non_mutation	Hypomethylation	Del	Upregulated
+chr6:169569548-169569688	risperidone	-1.78421529388863	0.001	2	-1784.21529388863	Inhibition	Non_mutation	Hypomethylation	Del	Upregulated
+chr6:169569548-169569688	geldanamycin	-1.66469526708815	0.001	2	-1664.69526708815	Inhibition	Non_mutation	Hypomethylation	Del	Upregulated
+chr6:169569548-169569688	rottlerin	-1.64051734765877	0.001	2	-1640.51734765877	Inhibition	Non_mutation	Hypomethylation	Del	Upregulated
+chr6:169569548-169569688	betulin	-1.6381019677397	0.001	3	-1638.1019677397	Inhibition	Non_mutation	Hypomethylation	Del	Upregulated
+chr6:169569548-169569688	gossypol	-1.61920230019014	0.001	2	-1619.20230019014	Inhibition	Non_mutation	Hypomethylation	Del	Upregulated
+chr6:169572627-169572772	valproic acid	-1.9562043403896	0.001	2	-1956.2043403896	Inhibition	Non_mutation	Hypomethylation	Del	Upregulated
+chr6:169572627-169572772	tretinoin	-1.89393951424132	0.001	2	-1893.93951424132	Inhibition	Non_mutation	Hypomethylation	Del	Upregulated
+chr6:169572627-169572772	risperidone	-1.88858355189667	0.001	2	-1888.58355189667	Inhibition	Non_mutation	Hypomethylation	Del	Upregulated
+chr6:169572627-169572772	geldanamycin	-1.8213500942924	0.001	2	-1821.3500942924	Inhibition	Non_mutation	Hypomethylation	Del	Upregulated
+chr6:169572627-169572772	quinpirole	-1.73949768679515	0.001	2	-1739.49768679515	Inhibition	Non_mutation	Hypomethylation	Del	Upregulated
+chr7:86948267-86948659	vigabatrin	-2.02024412882019	0.001	2	-2020.24412882019	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr7:86948267-86948659	apigenin	-1.7162718994021	0.001	2	-1716.2718994021	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr7:86948267-86948659	tolazamide	-1.68311364400714	0.001	2	-1683.11364400714	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr7:86948267-86948659	oxybenzone	-1.56289967483007	0.001	2	-1562.89967483007	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr7:86948267-86948659	melatonin	-1.47709895554216	0.001	2	-1477.09895554216	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr8:101512336-101512720	parbendazole	-1.59667925350997	0.004	3	-399.169813377493	Inhibition	Non_mutation	Hypermethylation	Amp	Upregulated
+chr8:101512336-101512720	griseofulvin	-1.57919400712649	0.004	3	-394.798501781623	Inhibition	Non_mutation	Hypermethylation	Amp	Upregulated
+chr8:101512336-101512720	clobetasol	-1.50079234554862	0.004	3	-375.198086387155	Inhibition	Non_mutation	Hypermethylation	Amp	Upregulated
+chr8:101512336-101512720	piretanide	-1.47545591495213	0.004	3	-368.863978738032	Inhibition	Non_mutation	Hypermethylation	Amp	Upregulated
+chr8:101512336-101512720	clemastine	-1.55445238827761	0.012	3	-129.537699023134	Inhibition	Non_mutation	Hypermethylation	Amp	Upregulated
+chr8:102135026-102135273	methotrexate	-3.70516860223335	0.001	2	-3705.16860223335	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:102135026-102135273	etoposide	-3.18630407644363	0.001	2	-3186.30407644363	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:102135026-102135273	resveratrol	-2.46623611360928	0.001	2	-2466.23611360928	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:102135026-102135273	irinotecan	-2.43978746101818	0.001	2	-2439.78746101818	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:102135026-102135273	clotrimazole	-2.27369990220497	0.001	2	-2273.69990220497	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:116990613-116990894	isoniazid	-2.09245478950443	0.001	2	-2092.45478950443	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:116990613-116990894	mafenide	-1.8920875458559	0.004	3	-473.021886463975	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:116990613-116990894	buflomedil	-1.76903039796987	0.006	3	-294.838399661645	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:116990613-116990894	articaine	-1.65092242302206	0.006	3	-275.153737170343	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:116990613-116990894	hydrastinine	-1.94565745392596	0.008	3	-243.207181740745	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:117000021-117000603	isoniazid	-1.59638816240304	0.001	2	-1596.38816240304	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:117000021-117000603	mafenide	-1.67907372959885	0.004	3	-419.768432399712	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:117000021-117000603	buflomedil	-1.92813558285391	0.006	3	-321.355930475652	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:117000021-117000603	articaine	-1.58892277631735	0.006	3	-264.820462719558	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:117000021-117000603	hydrastinine	-1.69736191799619	0.01	3	-169.736191799619	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:117049380-117049760	irinotecan	-1.33241427055301	0.001	3	-1332.41427055301	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:117049380-117049760	menadione	-1.32136690759906	0.092	4	-14.3626837782507	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:117049380-117049760	1,4-chrysenequinone	-1.31385702418673	NA	NA	-1.31385702418673	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:117070380-117070761	irinotecan	-1.33241427055301	0.001	3	-1332.41427055301	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:117070380-117070761	menadione	-1.32136690759906	0.092	4	-14.3626837782507	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:117070380-117070761	1,4-chrysenequinone	-1.31385702418673	NA	NA	-1.31385702418673	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:117175146-117175377	irinotecan	-1.33241427055301	0.001	3	-1332.41427055301	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:117175146-117175377	menadione	-1.32136690759906	0.092	4	-14.3626837782507	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:117175146-117175377	1,4-chrysenequinone	-1.31385702418673	NA	NA	-1.31385702418673	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:119808728-119809168	baclofen	-2.38358703410411	0.001	3	-2383.58703410411	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:119808728-119809168	sulpiride	-2.04443713397889	0.001	3	-2044.43713397889	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:119808728-119809168	troleandomycin	-1.91009949439536	0.001	3	-1910.09949439536	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:119808728-119809168	cefoperazone	-1.80028064117422	0.001	3	-1800.28064117422	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:119808728-119809168	harmine	-1.78759869215933	0.001	3	-1787.59869215933	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:120124666-120124779	doxycycline	-1.32418763833483	0.001	3	-1324.18763833483	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr8:120124666-120124779	pregnenolone	-1.32536092928389	0.008	4	-165.670116160486	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr8:120124666-120124779	roxithromycin	-1.33014407605644	0.028	4	-47.5051455734443	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr8:120124666-120124779	luteolin	-1.3311803543861	0.104	4	-12.7998110998663	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr8:120124666-120124779	testosterone	-1.3314337143049	0.106	4	-12.5606954179708	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr8:128911546-128911899	tanespimycin	-1.89167198800111	0.002	3	-945.835994000555	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:128911546-128911899	geldanamycin	-1.64743785477058	0.002	3	-823.71892738529	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:128911546-128911899	alvespimycin	-1.63881054790683	0.002	3	-819.405273953415	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:128911546-128911899	cantharidin	-1.63281171109705	0.002	3	-816.405855548525	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:128911546-128911899	sirolimus	-1.64375511438998	0.006	3	-273.959185731663	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:129002909-129003328	methotrexate	-1.3975774805654	0.001	2	-1397.5774805654	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:129002909-129003328	mafenide	-1.68409074114944	0.008	3	-210.51134264368	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:129002909-129003328	hydrastinine	-1.78841948574064	0.01	3	-178.841948574064	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:129002909-129003328	buflomedil	-1.62483541088565	0.01	3	-162.483541088565	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:129002909-129003328	articaine	-1.51013598394661	0.01	3	-151.013598394661	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:130697904-130698138	quinidine	-1.73918790355079	0.001	2	-1739.18790355079	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:130697904-130698138	cyclic adenosine monophosphate	-1.66013579092469	0.001	3	-1660.13579092469	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:130697904-130698138	estriol	-1.85362589632042	0.002	3	-926.81294816021	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:130697904-130698138	rifabutin	-1.78620817543229	0.004	3	-446.552043858073	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:130697904-130698138	parthenolide	-1.61551564067866	0.004	3	-403.878910169665	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:130703284-130703457	epitiostanol	-1.32235573596568	0.002	4	-661.17786798284	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:130703284-130703457	depudecin	-1.32744894258028	0.006	4	-221.241490430047	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:130703284-130703457	quercetin	-1.32378999769524	0.01	3	-132.378999769524	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:130703284-130703457	demecarium bromide	-1.31980333355982	0.012	4	-109.983611129985	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:130703284-130703457	pyrvinium	-1.33705216105089	0.014	4	-95.5037257893493	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:134156406-134156683	tacrolimus	-1.72301474649909	0.001	2	-1723.01474649909	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:134156406-134156683	wortmannin	-1.52916909311732	0.001	2	-1529.16909311732	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:134156406-134156683	ionomycin	-1.46748485578386	0.001	2	-1467.48485578386	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:134156406-134156683	testosterone	-1.43533262486036	0.001	2	-1435.33262486036	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:134156406-134156683	ethisterone	-1.73123861844573	0.004	3	-432.809654611433	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:61816883-61817210	isoniazid	-1.58332366674716	0.294	4	-5.38545464879986	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:61816883-61817210	chlortetracycline	-1.61178733453333	NA	NA	-1.61178733453333	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:61835199-61835395	fipexide	-1.80145029656591	0.08	4	-22.5181287070739	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:61835199-61835395	metolazone	-1.74135693711283	0.086	4	-20.2483364780562	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:61835199-61835395	etacrynic acid	-1.92397875712877	0.11	4	-17.4907159738979	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:61835199-61835395	betamethasone	-1.75177189451741	0.206	4	-8.50374706076413	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:61835199-61835395	baclofen	-1.85904588860375	0.232	4	-8.01312883018858	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:66893726-66894034	roxithromycin	-1.86003317735273	0.001	2	-1860.03317735273	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:66893726-66894034	deferoxamine	-1.73131631889389	0.001	2	-1731.31631889389	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:66893726-66894034	prednisolone	-1.70031420272323	0.001	2	-1700.31420272323	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:66893726-66894034	lansoprazole	-1.65641105335361	0.001	2	-1656.41105335361	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:66893726-66894034	nortriptyline	-1.64706986676841	0.001	2	-1647.06986676841	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:66894095-66894367	roxithromycin	-1.90348984909335	0.001	2	-1903.48984909335	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:66894095-66894367	mycophenolic acid	-1.72273284987604	0.001	2	-1722.73284987604	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:66894095-66894367	nortriptyline	-1.67261690326146	0.001	2	-1672.61690326146	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:66894095-66894367	ionomycin	-1.65466718645146	0.001	2	-1654.66718645146	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:66894095-66894367	butamben	-1.63995119226606	0.001	2	-1639.95119226606	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:96129740-96130058	alsterpaullone	-1.60830053436022	0.038	3	-42.3236982726374	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:96129740-96130058	etacrynic acid	-1.9242541925154	0.102	4	-18.8652371815235	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:96129740-96130058	tolfenamic acid	-1.66397644074116	0.284	4	-5.8590719744407	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:96129740-96130058	thioridazine	-1.69906361746493	0.46	4	-3.69361655970637	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:96129740-96130058	nocodazole	-1.79561123294034	0.514	4	-3.49340706797732	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:96194640-96194860	menadione	-2.08636995287302	0.001	2	-2086.36995287302	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:96194640-96194860	irinotecan	-1.90518212485057	0.001	2	-1905.18212485057	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:96194640-96194860	mafenide	-1.71685531674699	0.002	3	-858.427658373495	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:96194640-96194860	oxolinic acid	-1.48769739781634	0.004	3	-371.924349454085	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:96194640-96194860	chlorogenic acid	-1.61937878346671	0.006	3	-269.896463911118	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:96197025-96197314	methotrexate	-2.84692359511638	0.001	2	-2846.92359511638	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:96197025-96197314	dobutamine	-2.06344475285252	0.001	2	-2063.44475285252	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:96197025-96197314	irinotecan	-1.82241586351202	0.001	2	-1822.41586351202	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:96197025-96197314	daunorubicin	-1.75957163061973	0.001	2	-1759.57163061973	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr8:96197025-96197314	pimozide	-1.61613230591373	0.001	2	-1616.13230591373	Inhibition	Non_mutation	Non_methylation	Amp	Upregulated
+chr9:132241150-132241608	ethosuximide	-1.68621691255767	0.001	2	-1686.21691255767	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr9:132241150-132241608	oxybenzone	-1.59011957073759	0.001	2	-1590.11957073759	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr9:132241150-132241608	kaempferol	-1.57409524798578	0.001	2	-1574.09524798578	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr9:132241150-132241608	melatonin	-1.38824892234908	0.001	2	-1388.24892234908	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
+chr9:132241150-132241608	articaine	-1.77231048065963	0.012	3	-147.692540054969	Inhibition	Non_mutation	Hypomethylation	Non_CNV	Upregulated
