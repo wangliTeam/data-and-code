@@ -1,0 +1,2 @@
+*.RData filter=lfs diff=lfs merge=lfs -text
+Genetic_alteration-driven_enhancer_RNAs_in_BRCA/data/data1/brca_data_mutations.txt filter=lfs diff=lfs merge=lfs -text
